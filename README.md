@@ -3,10 +3,10 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ Abundance of enthusiasm about being the part of the field
+<p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. QA Tester since 2019
   <br>📚 I'm currently working on Front End UI
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
-  <br>🎲 Fun fact: I'm a Manual Tester before, worked in testIO.</p>
+  <br>🎲 Fun fact: Love to read, play games, gardening, draw and paint</p>
 
   ## My stack:
 - 1+ years of years of experience in React, Node.js, Express.js , async, await
@@ -19,11 +19,12 @@
  <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
+ </br>
+ <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
 </div>
 <br>
-
 <h3 align="left">🛠 Language and tools</h3>
 <h2 align="left"><b>I code with: </b></h2>
 <div align="left">
@@ -66,17 +67,13 @@
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="12" />
 </div>
-<br />
-<h3 align="left">Contact</h3>
-<div align="left">
-  ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) 
-</div>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,vscode,bootstrap,java,angular,spring,heroku,aws,tomcat" />
+  </a>
+</p>
 
--[LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
+## Let's connect - [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
-<!-- Snake Animation 
-<div align="left">
-  ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) 
-</div> -->
+## Feeding...
+![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
