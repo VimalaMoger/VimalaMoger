@@ -82,6 +82,6 @@
 <br>
 <!-- Snake Animation -->
 <div align="center">
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
   <!-- ![Snake animation](https://github.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) -->
 </div>
