@@ -49,5 +49,5 @@
 
 <br>
 <div align="center">
-    ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake-dark.svg)
 </div>
