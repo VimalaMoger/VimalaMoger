@@ -6,7 +6,7 @@
 <p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. QA Tester since 2019
   <br>📚 I'm currently working on Front End UI
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
-  <br>🎲 Fun fact: Love to read, play games, gardening, draw and paint</p>
+  <br>🎲 Fun fact: Love to read, play games, gardening, draw and paint, long list.. 😂</p>
 
   ## My stack:
 - 1+ years of years of experience in React, Node.js, Express.js , async, await
