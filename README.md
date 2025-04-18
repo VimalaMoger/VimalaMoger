@@ -16,6 +16,14 @@
 - SQL, MySQL, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
 
+ <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+<br>
+
 <h3 align="left">🛠 Language and tools</h3>
 <h2 align="left"><b>I code with: </b></h2>
 <div align="left">
@@ -59,8 +67,6 @@
   <img width="12" />
 </div>
 <br />
-<br />
-
 <h3 align="left">Contact</h3>
 <div align="left">
     <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> 
@@ -70,18 +76,8 @@
 
 -[LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-<br>
-
-<br>
 <!-- Snake Animation -->
-<div align="center">
+<div align="left">
   ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
-  <!-- ![Snake animation](https://github.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) 
 </div>
