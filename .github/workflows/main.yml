@@ -12,7 +12,6 @@ jobs:
     steps:
     # Generate GitHub Contributions Snake Animations
       - uses: Platane/snk/svg-only@v3
-        id: snake-gif
 
     # GitHub username to generate the animation for
         with:
