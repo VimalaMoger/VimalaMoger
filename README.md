@@ -3,10 +3,18 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ QA Tester since 2019
-  <br>📚 I'm currently learning about Front End UI
-  <br>🎯 Goals: Leverage my skills to solve real-world problems. Work on innovative projects. Continuously learn and grow 
-  <br>🎲 Fun fact: Love to read and write, draw and paint, gardening, play games and list goez on..</p>
+<p align="left">✨ Abundance of enthusiasm about being the part of the field
+  <br>📚 I'm currently working on Front End UI
+  <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
+  <br>🎲 Fun fact: I'm a Manual Tester before, worked in testIO.</p>
+
+  ## My stack:
+- 1+ years of years of experience in React, Node.js, Express.js , async, await
+- ❤️ API, RESTful API
+- HTML/CSS, Javascript
+- git, docker, CI/CD
+- SQL, MySQL, PostgreSQL, MongoDB ...
+- LocalStorage, SessionStorage, JWT
 
 <h3 align="left">🛠 Language and tools</h3>
 <h2 align="left"><b>I code with: </b></h2>
@@ -24,6 +32,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="12" />
 </div>
 <br />
