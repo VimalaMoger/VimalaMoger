@@ -48,6 +48,4 @@
 <br>
 
 <br>
-<div align="center">
-   ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake-dark.svg)
-</div>
+![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake-dark.svg)
