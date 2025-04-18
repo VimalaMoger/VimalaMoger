@@ -9,7 +9,7 @@
   <br>🎲 Fun fact: Love to read, play games, gardening, draw and paint, long list.. 😂</p>
 
   ## My stack:
-- 1+ years of years of experience in React, Node.js, Express.js , async, await
+- React, Node.js, Express.js , async, await
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript
 - git, docker, CI/CD
