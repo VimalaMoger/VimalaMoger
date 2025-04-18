@@ -14,8 +14,8 @@
 - HTML/CSS, Javascript
 - git, docker, CI/CD
 - SQL, MySQL, PostgreSQL, MongoDB ...
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - LocalStorage, SessionStorage, JWT
-
  <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -69,15 +69,14 @@
 <br />
 <h3 align="left">Contact</h3>
 <div align="left">
-    <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> 
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  -->
+  ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) 
 </div>
 
 -[LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
-<!-- Snake Animation -->
+<!-- Snake Animation 
 <div align="left">
   ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://raw.githubusercontent.com/VimalaMoger/VimalaMoger/output/github-contribution-grid-snake.svg) 
-</div>
+</div> -->
