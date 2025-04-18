@@ -15,7 +15,6 @@
 - git, docker, CI/CD
 - SQL, MySQL, PostgreSQL, MongoDB ...
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- LocalStorage, SessionStorage, JWT
  <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
