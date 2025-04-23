@@ -1,10 +1,10 @@
 <h1 align="left">Hey :raising_hand: What's up?</h1>
-<p align="left">:raised_hand:  My name is Vimala Moger 👀</p>
+<p align="left">My name is Vimala Moger 👀</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. 
-  <br>📚 I'm currently working on Front End UI
+  <br>📚 I'm currently learning about Front End UI 
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
   <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one”</p>
 
@@ -13,10 +13,11 @@
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript
 - git, docker, CI/CD
-- SQL, MySQL, PostgreSQL, MongoDB ...
+- SQL, MySQL, PostgreSQL, MongoDB
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  <br>
 <div align="center">
+  <br>
   <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
@@ -41,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
@@ -63,14 +62,13 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
-</div>
-<p>
+  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,bootstrap,java,angular,spring,heroku,aws,tomcat" />
+    <img src="https://skillicons.dev/icons?i=github,postman,vscode,bootstrap,java,angular,spring,maven,hibernate,heroku,aws,flask,eclipse,selenium" />
   </a>
 </p>
+</div>
+
 
 ## Let's connect - [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
