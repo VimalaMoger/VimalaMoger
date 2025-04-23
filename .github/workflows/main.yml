@@ -1,9 +1,10 @@
+
 name:  GitHub Snake Game
 on:
- # schedule:     				
-  #  - cron: "0 */24 * * *"                # run automatically every 24 hours
+  schedule:     				
+    - cron: "30 5,17 * * *"                # Schedule the automatic workflow 
   
-  workflow_dispatch:		               # Allows manually run the job at any time
+  workflow_dispatch:		               # Allow manual triggering of the workflow
 
 jobs:
   build:
@@ -20,8 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            #dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+           # dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
    # Step 3: Deploy the generated files to the 'output' branch        
       - name:  push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
