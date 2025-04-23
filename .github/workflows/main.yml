@@ -4,7 +4,7 @@ on:
   schedule:     				
     - cron: "30 5,17 * * *"                # Schedule the automatic workflow 
   
-  workflow_dispatch:		               # Allow manual triggering of the workflow
+  workflow_dispatch:		               # allows to manually run the job at any time
 
 jobs:
   build:
