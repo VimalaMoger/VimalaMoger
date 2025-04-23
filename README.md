@@ -3,10 +3,10 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. QA Tester since 2019
+<p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. 
   <br>📚 I'm currently working on Front End UI
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
-  <br>🎲 Fun fact: Love to read, play games, gardening, draw and paint, long list.. 😂</p>
+  <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one”</p>
 
   ## My stack:
 - React, Node.js, Express.js , async, await
@@ -21,7 +21,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
  </br>
- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
+ <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=VimalaMoger&theme=github">
 </div>
 <br>
 <h3 align="left">🛠 Language and tools</h3>
