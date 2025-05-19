@@ -6,7 +6,7 @@
 <p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. 
   <br>📚 I'm currently learning about Front End UI 
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
-  <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one”</p>
+  <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one” :astonished:</p>
 
   ## My stack:
 - React, Node.js, Express.js , async, await
@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
   <img width="12" />
