@@ -3,7 +3,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ I am interested in Coding, building applications and testing. I create random project in my free time. 
+<p align="left">✨ I am interested in Coding, building applications and testing.
   <br>📚 I'm currently learning about Front End UI 
   <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
   <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one” :astonished:</p>
