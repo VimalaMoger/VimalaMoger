@@ -3,9 +3,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ I am interested in Coding, building applications and testing.
-  <br>📚 I'm currently learning about Front End UI 
-  <br>🎯 Goals:  I’m looking to collaborate on innovative projects and startups
+<p align="left">✨ All I would like to do - Coding, building applications and tesing.
+  <br>📚 Select a project that I am interested in and more curious about! and start working on it.
+  <br>🎯 Goals: I am looking to collaborate on innovative projects
   <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one” :astonished:</p>
 
  <br>
