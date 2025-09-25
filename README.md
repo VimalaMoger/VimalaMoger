@@ -3,10 +3,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ All I would like to do - Coding, building applications and testing.
+<p align="left">✨ Involved in mini projects and enjoy seeing my shiny app running in a Browser!
   <br>📚 Select a project that I am interested in and more curious about! and start working on it.
   <br>🎯 Goals: I am looking to collaborate on innovative projects
-  <br>🎲 Fun fact: There are 13 letters in both “eleven plus two” and “twelve plus one” :astonished:</p>
 
  <br>
 <div align="center">
