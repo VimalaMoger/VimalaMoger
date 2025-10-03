@@ -76,17 +76,17 @@
 <h5>HTML</h5>
 </ul>
 
-<h4>Database Tech Stack:</h4>
+<h4>Database Tech Stack: </h4>
 <ul>
   <li>MySQL/PL/SQL</li>
   <li>SQLite</li>
 </ul>
 
-<h4>DevOps/CI/CD/Cloud</h4>
+<h4>DevOps/CI/CD/Cloud: </h4>
 
 <ul>
   <li>Docker: Containerization of apps for deplyment and testing</li>
-  <li>Jenkins/GitGub Actions: For CI/CD pipelines</li>
+  <li>Jenkins/GitHub Actions: For CI/CD pipelines</li>
 </ul>
 
 </div>
