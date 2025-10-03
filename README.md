@@ -1,11 +1,23 @@
-<h1 align="left">Hey :raising_hand: What's up?</h1>
-<p align="left">My name is Vimala Moger 👀</p>
+<div align="center">
+  
+</div>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">✨ Involved in mini projects and enjoy seeing my shiny app running in a Browser!
-  <br>📚 Select a project that I am interested in and more curious about! and start working on it.
-  <br>🎯 Goals: I am looking to collaborate on innovative projects
+
+<div align="center">
+      <h3 align="center">👩‍💻  About Me</h3>
+        <div align="center">✨</div>
+      Involved in mini projects and enjoy seeing my shiny app running in a Browser!
+      <br>
+      <div align="center">📚</div>
+        Select a project that I am interested in and more curious about! and start working on it.
+      <br>
+      <div align="center">🎯</div>
+        Goals: I am looking to collaborate on innovative projects
+</div> 
+
+
+<p align="left">
 
  <br>
 <div align="center">
