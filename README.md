@@ -58,7 +58,7 @@
 <h5>Python</h5>
 <ul>
   <li>Python programming concepts</li>
-  <li>pytest (testing Framework)</li>
+  <li>pytest, unittest, docktest</li>
   <li>Flask, FastAPI</li>
 </ul>
 
