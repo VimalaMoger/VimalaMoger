@@ -1,5 +1,9 @@
 <div align="center">
-  
+  <div style="width: 100%;">
+  <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 </div>
 
 
@@ -7,13 +11,13 @@
 <div align="center">
       <h3 align="center">👩‍💻  About Me</h3>
         <div align="center">✨</div>
-      Involved in mini projects and enjoy seeing my shiny app running in a Browser!
+      I have been involved in mini projects and take great satisfaction in seeing my Shiny app running in a browser!
       <br>
       <div align="center">📚</div>
         Select a project that I am interested in and more curious about! and start working on it.
       <br>
       <div align="center">🎯</div>
-        Goals: I am looking to collaborate on innovative projects
+        Goals: I am looking to work on innovative projects, building on my previous experience as a tester. I’m eager to expand my skill set and contribute to development projects.
 </div> 
 
 
@@ -30,6 +34,68 @@
 </div>
 <br>
 <h3 align="left">🛠 Language and tools</h3>
+<div align="left">
+
+  
+<h4>Backend Tech Stack:</h4>
+<h5>Java</h5>
+<ul>
+  <li>Spring Boot: Java web application development and RESTFul services</li>
+  <li>Spring Security: Authentication and authorization implementation</li>
+  <li>Spring Cloud: Microservices-based applications</li>
+  <li>Logack or SLF4J: For logging</li>
+  <li>H2 Database: In-memory for testing</li>
+</ul>
+<h5>Testing Framework: </h5>
+<ul>
+  <li>JUnit</li>
+  <li>TestNG</li>
+  <li>Mockito</li>
+  <li>Cucumber</li>
+  <li>Spring Test: @SpringBootTest and @WebMvcTest</li>
+</ul>
+
+<h5>Python</h5>
+<ul>
+  <li>Python programming concepts</li>
+  <li>pytest (testing Framework)</li>
+  <li>Flask, FastAPI</li>
+</ul>
+
+<h4>Frontend Tech Stack:</h4>
+<h5>React</h5>
+  <ul>
+    <li>Redux: State management</li>
+    <li>Styled-components</li>
+  </ul>
+
+<h5>JavaScript</h5>
+<h5>Angular</h5>
+  <ul> 
+    <li>Testing Frameworks: </li>
+    <li>Jasmine : BDD for JavaScript</li>
+    <li>Karma: Test runner in Browser</li>
+    <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
+  </ul>
+  
+<h5>TypeScript</h5>
+<h5>HTML</h5>
+</ul>
+
+<h5>Database Tech Stack:</h5>
+<ul>
+  <li>MySQL/PL/SQL</li>
+  <li>SQLite</li>
+</ul>
+
+<h4>DevOps/CI/CD/Cloud</h4>
+
+<ul>
+  <li>Docker: Containerization of apps for deplyment and testing</li>
+  <li>Jenkins/GitGub Actions: For CI/CD pipelines</li>
+</ul>
+
+</div>
 <h2 align="left"><b>I code with: </b></h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -72,7 +138,7 @@
 </div>
 
 
-## Let's connect - [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
+## Linkedin- [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
 ## Feeding...
 ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
