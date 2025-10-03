@@ -11,13 +11,10 @@
 <div align="center">
       <h3 align="center">👩‍💻  About Me</h3>
         <div align="center">✨</div>
-      I have been involved in mini projects and take great satisfaction in seeing my Shiny app running in a browser!
-      <br>
-      <div align="center">📚</div>
-        Select a project that I am interested in and more curious about! and start working on it.
+      I have been involved in mini projects and love to see my shiny-tiny app running in a browser!
       <br>
       <div align="center">🎯</div>
-        Goals: I am looking to work on innovative projects, building on my previous experience as a tester. I’m eager to expand my skill set and contribute to development projects.
+        I am looking to work on innovative projects, building on my previous experience as a tester. I’m eager to expand my skill set and contribute to development projects.
 </div> 
 
 
