@@ -82,7 +82,7 @@
 <h5>HTML</h5>
 </ul>
 
-<h5>Database Tech Stack:</h5>
+<h4>Database Tech Stack:</h4>
 <ul>
   <li>MySQL/PL/SQL</li>
   <li>SQLite</li>
