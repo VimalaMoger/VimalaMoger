@@ -40,7 +40,7 @@
   <li>Logack or SLF4J: For logging</li>
   <li>H2 Database: In-memory for testing</li>
   <br>
-  <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: BookmarkingApplications, CRUDApp, ThrillioWeb, MyCoolApp, JavaConcet-Implementation-I & II, DesignPatterns, DataStructures_Algorithms, Employee-Management-app</p> 
+  <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: BookmarkingApplications, CRUDApp, ThrillioWeb, MyCoolApp, JavaConcept-Implementation-I & II, DesignPatterns, DataStructures_Algorithms, Employee-Management-app</p> 
 </ul>
 
 <h5>:star: Testing Framework: </h5>
