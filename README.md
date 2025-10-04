@@ -31,62 +31,102 @@
 <div align="left">
 
   
-<h4>Backend Tech Stack:</h4>
-<h5>Java</h5>
+<h4>:sparkles: Backend Tech Stack:</h4>
+<h5>:star: Java</h5>
 <ul>
   <li>Spring Boot: Java web application development and RESTFul services</li>
   <li>Spring Security: Authentication and authorization implementation</li>
   <li>Spring Cloud: Microservices-based applications</li>
   <li>Logack or SLF4J: For logging</li>
   <li>H2 Database: In-memory for testing</li>
+  <br>
+  <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: BookmarkingApplications, CRUDApp, ThrillioWeb, MyCoolApp, JavaConcet-Implementation-I & II, DesignPatterns, DataStructures_Algorithms, Employee-Management-app</p> 
 </ul>
-<h5>Testing Framework: </h5>
+
+<h5>:star: Testing Framework: </h5>
 <ul>
   <li>JUnit</li>
   <li>TestNG</li>
   <li>Mockito</li>
   <li>Cucumber</li>
   <li>Spring Test: @SpringBootTest and @WebMvcTest</li>
+  <br>
+  :star: Browser Automation: 
+    <ul>
+      <li>Integration of Selenium and TestNG</li>
+      <li>Annotations, test cases grouping, prioritizing, parallel execution, and reporting</li>
+      <br>
+      <p>⋆ ˚｡⋆୨୧˚✎ Repos: E2ETesting_Automation</p>
+    </ul>
+  <br>
+  :star: REST API testing: 
+    <ul>
+      <li>Integration of REST Assured with JUnit</li>
+      <li>Postman</li>
+      <ul><li>HTTP Response validation</li></ul>
+    </ul>
 </ul>
 
-<h5>Python</h5>
+<h5>:star: Python</h5>
 <ul>
   <li>Python programming concepts</li>
   <li>pytest, unittest, docktest</li>
-  <li>Flask, FastAPI</li>
+  <li>Flask</li>
+  <br>
+  <p>°❀⋆.ೃ࿔*:･ Repos: AutomatePython</p>
 </ul>
 
-<h4>Frontend Tech Stack:</h4>
-<h5>React</h5>
+<br>
+<h4>:sparkles: Frontend Tech Stack:</h4>
+  <h5>:star: JavaScript:</h5>
   <ul>
-    <li>Redux: State management</li>
-    <li>Styled-components</li>
-  </ul>
-
-<h5>JavaScript</h5>
-<h5>Angular</h5>
-  <ul> 
-    <li>Testing Frameworks: </li>
-    <li>Jasmine : BDD for JavaScript</li>
-    <li>Karma: Test runner in Browser</li>
-    <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
+    <li>fetch API for making API calls</li>
+    <li>Server-side development: Express.js with Node.js</li>
+  </ul>  
+  <h5>:star: React</h5>
+      <ul>
+        <ul>
+          <li>Redux: State management</li>
+          <li>Styled-components</li>
+        </ul>
+        <br>
+        <p>🔥 Repos: JS_jQuery_React_FEUI 🌱</p>
+      </ul>
+<h5>:star: Angular</h5>
+    <ul><h5>:star: Testing Frameworks: </h5>
+    <ul> 
+      <li>Jasmine : BDD for JavaScript</li>
+      <li>Karma: Test runner in Browser</li>
+      <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
+      <br>
+      <p>:star: Repos: UnitTestingInAngular, TourOfHeroes-Angular, TourOfHeroes-Angular_Http</p>
+    </ul>
   </ul>
   
-<h5>TypeScript</h5>
-<h5>HTML</h5>
+<h5>:star: TypeScript</h5>
+<ul>:star: Repos: iTunes_search_app, Angular-forms-RxJX</ul>
+<h5>:star: HTML</h5>
+  <ul><p>🚀 Repos: FooderApp</p></ul>
 </ul>
 
-<h4>Database Tech Stack: </h4>
+<br>
+<h4>⋆.˚🦋༘⋆ Full Tech Stack:</h4>
 <ul>
-  <li>MySQL/PL/SQL</li>
+  <p>:star: Projects: MEAN stack app</p>
+</ul>
+
+<br>
+<h4>:sparkles: Database Tech Stack: </h4>
+<ul>
+  <li>MySQL/PL/SQL/MongoDB</li>
   <li>SQLite</li>
 </ul>
 
-<h4>DevOps/CI/CD/Cloud: </h4>
-
+<br>
+<h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
 <ul>
-  <li>Docker: Containerization of apps for deplyment and testing</li>
-  <li>Jenkins/GitHub Actions: For CI/CD pipelines</li>
+  <li>:star: Docker: Containerization of apps for deployment and testing</li>
+  <li>:star: Jenkins/GitHub Actions: For CI/CD pipelines</li>
 </ul>
 
 </div>
