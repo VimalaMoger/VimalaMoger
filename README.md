@@ -7,9 +7,9 @@
     </div>
  </div>
 <div align="center">  
-  <div style="width: 100%;">
+  <div>
       <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
-        <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+        <img src="welcome.svg" style="width: 50%;" alt="Click to see the source">
       </a>
   </div>
 </div>
