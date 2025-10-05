@@ -7,6 +7,6 @@
     <tspan>
         Welcome to My GitHub Profile!
     </tspan>
-    <animate attributeName="y" from="30" to="60" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="x" from="30" to="100%" dur="10s" repeatCount="indefinite" />
   </text>
 </svg>
