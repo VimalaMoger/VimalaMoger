@@ -1,9 +1,17 @@
-<div align="center">
+
+ <div align="center">
+   <div style="width: 100%;">
+       <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/profile.svg">
+          <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+       </a>
+    </div>
+ </div>
+<div align="center">  
   <div style="width: 100%;">
-  <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+      <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
+        <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+      </a>
+  </div>
 </div>
 
 
