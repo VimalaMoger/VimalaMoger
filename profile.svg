@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+
+  <path id="wavePath" d="M 0 100 Q 50 50, 100 100 T 200 100 T 300 100 T 400 100 T 500 100" fill="transparent" stroke="lightgray" stroke-width="1"/>
+
+  <text font-size="24" fill="blue">
+    <textPath href="#wavePath" startOffset="0%">
+      Welcome to My GitHub Profile!
+    </textPath>
+  </text>
+</svg>
