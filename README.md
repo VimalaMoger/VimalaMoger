@@ -67,7 +67,7 @@
    <br>
    :star: REST API testing: 
      <ul>
-       <li>Integration of REST Assured with JUnit</li>
+       <li>Integration of REST Assured with TestNG, and JUnit</li>
        <li>Postman</li>
        <ul><li>HTTP Response validation</li></ul>
      </ul>
