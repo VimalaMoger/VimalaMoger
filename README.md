@@ -26,8 +26,7 @@
 </div>
 <br>
 
-<h3 align="left">🛠 Language and tools</h3>
- <br>
+<br>
  
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
@@ -130,7 +129,7 @@
 
   <br>
   
- <h4>:star: HTML</h4>
+ <h4>:star: HTML, CSS, JavaScript</h4>
   <details>
    <ul><p>🚀 Repos: fooderApp</p></ul>
   </details>
@@ -168,6 +167,9 @@
   </div>
   </details>
 
+<br>
+
+<h3 align="left">🛠 Language and tools</h3>
 <h2 align="left"><b>I code with: </b></h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
