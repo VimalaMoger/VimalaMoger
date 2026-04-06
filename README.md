@@ -40,6 +40,7 @@
        <li>H2 Database: In-memory for testing</li>
        <br>
        <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: bookmarkingApplication, crudApp, thrillioWeb, myCoolApp, javaConcept-Implementation-I & II, designPatterns, dataStructures_Algorithms, employee-Management-app</p> 
+      <li>https://book-v9.onrender.com/</li>
      </ul>
    </details>
     <h5>:star: Testing Frameworks: </h5>
@@ -94,6 +95,9 @@
      <summary>Click to expand</summary>
      <ul>
       <p>🔥 Repos: js_jQuery_React_FEUI 🌱</p>
+      <li>https://teal-bienenstitch-6e2de9.netlify.app/</li>
+      <li>https://precious-scone-c844ed.netlify.app/</li>
+      <li>https://melodious-licorice-4ac6e1.netlify.app/</li>
     </ul>
   </details>
   
@@ -123,7 +127,7 @@
     <summary>Click to expand</summary>
      <ul>
       <li>Playwright UI Automation in TypeScript</li>
-      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-typescript </p>
+      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-typescript</p>
      </ul>
    </details>
 
@@ -131,7 +135,10 @@
   
  <h4>:star: HTML, CSS, JavaScript</h4>
   <details>
-   <ul><p>🚀 Repos: fooderApp</p></ul>
+   <ul>
+    <p>🚀 Repos: fooderApp</p>
+    <li>https://sweet-torte-0bf6bc.netlify.app/</li>
+   </ul>
   </details>
   
   <br>
