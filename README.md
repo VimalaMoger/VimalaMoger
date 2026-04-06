@@ -29,115 +29,125 @@
 <h3 align="left">🛠 Language and tools</h3>
  <br>
  
- <div align="left">  
-  <h4>:sparkles: Backend Tech Stack:</h4>
-  <h5>:star: Java</h5>
-  
-  <details>
-  <summary>Click to expand</summary>
-   <ul>
-     <li>Spring Boot: Java web application development and RESTFul services</li>
-     <li>Spring Security: Authentication and authorization implementation</li>
-     <li>Spring Cloud: Microservices-based applications</li>
-     <li>Logack or SLF4J: For logging</li>
-     <li>H2 Database: In-memory for testing</li>
-     <br>
-     <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: BookmarkingApplications, CRUDApp, ThrillioWeb, MyCoolApp, JavaConcept-Implementation-I & II, DesignPatterns, DataStructures_Algorithms, Employee-Management-app</p> 
-   </ul>
-  </details>
-  
-  <br>
-  <h5>:star: Testing Frameworks: </h5>
-  <details>
-  <summary>Click to expand</summary>
-   <ul>
-     <li>JUnit</li>
-     <li>TestNG</li>
-     <li>Mockito</li>
-     <li>Cucumber</li>
-     <li>Spring Test: @SpringBootTest and @WebMvcTest</li>
-     <br>
-     :star: Browser Automation: 
-       <ul>
-         <li>Integration of Selenium and TestNG</li>
-         <li>Annotations, test cases grouping, prioritizing, parallel execution, and reporting</li>
-         <br>
-         <p>⋆ ˚｡⋆୨୧˚✎ Repos: E2ETesting_Automation</p>
-       </ul>
-     <br>
-     :star: REST API testing: 
-       <ul>
-         <li>Integration of REST Assured with TestNG, and JUnit</li>
-         <li>Postman</li>
-         <ul><li>HTTP Response validation</li></ul>
-       </ul>
-   </ul>
-  </details>
+<div align="left">  
+ <h1>:sparkles: Tech Stack:</h1>
+  <h4>:star: Java</h4>
+   <details>
+    <summary>Click to expand</summary>
+     <ul>
+       <li>Spring Boot: Java web application development and RESTFul services</li>
+       <li>Spring Security: Authentication and authorization implementation</li>
+       <li>Logack or SLF4J: For logging</li>
+       <li>H2 Database: In-memory for testing</li>
+       <br>
+       <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: bookmarkingApplication, crudApp, thrillioWeb, myCoolApp, javaConcept-Implementation-I & II, designPatterns, dataStructures_Algorithms, employee-Management-app</p> 
+     </ul>
+   </details>
+    <h5>:star: Testing Frameworks: </h5>
+    <details>
+    <summary>Click to expand</summary>
+     <ul>
+       <li>JUnit</li>
+       <li>TestNG</li>
+       <li>Mockito</li>
+       <li>Cucumber</li>
+       <li>Spring Test: @SpringBootTest and @WebMvcTest</li>
+       <br>
+       :star: Browser Automation: 
+         <ul>
+           <li>Integration of Selenium and TestNG</li>
+           <li>Annotations, test cases grouping, prioritizing, parallel execution, and reporting</li>
+           <br>
+           <p>⋆ ˚｡⋆୨୧˚✎ Repos: e2eTesting_Automation, serenity-ui-test</p>
+         </ul>
+       <br>
+       :star: REST API testing: 
+         <ul>
+           <li>Integration of REST Assured with TestNG, and JUnit</li>
+           <li>Postman</li>
+           <ul><li>HTTP Response validation</li></ul>
+         </ul>
+     </ul>
+    </details>
   
   <br>
-  <h5>:star: Python</h5>
-  <details>
-  <summary>Click to expand</summary>
+  
+ <h4>:star: Python</h4>
    <ul>
      <li>Python programming concepts</li>
-     <li>pytest, unittest, docktest</li>
-     <li>Flask</li>
-     <br>
-     <p>°❀⋆.ೃ࿔*:･ Repos: AutomatePython</p>
    </ul>
+  <h5>:star: Testing Frameworks: </h5>
+   <details>
+   <summary>Click to expand</summary>
+    <ul>
+      <li>pytest, unittest, docktest</li>
+      <li>Playwright UI Automation in Python</li>
+      <br>
+      <p>°❀⋆.ೃ࿔*:･ Repos: automatePython</p>
+      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-pytest-ui </p>
+    </ul>
+   </details>  
+  
+  <br>
+  
+ <h4>:star: jQuery, JavaScript, React</h4>
+  <details>
+     <summary>Click to expand</summary>
+     <ul>
+      <p>🔥 Repos: js_jQuery_React_FEUI 🌱</p>
+    </ul>
   </details>
   
   <br>
-  <h4>:sparkles: Frontend Tech Stack:</h4>
-  <details>
-  <summary>Click to expand</summary>
-    <h5>:star: JavaScript:</h5>
-    <ul>
-      <li>fetch API for making API calls</li>
-      <li>Server-side development: Express.js with Node.js</li>
-    </ul>  
-    <h5>:star: React</h5>
-        <ul>
-          <ul>
-            <li>Redux: State management</li>
-            <li>Styled-components</li>
-          </ul>
-          <br>
-          <p>🔥 Repos: JS_jQuery_React_FEUI 🌱</p>
-        </ul>
-    <h5>:star: Angular</h5>
-        <ul><h5>:star: Testing Frameworks: </h5>
-        <ul> 
-          <li>Jasmine : BDD for JavaScript</li>
-          <li>Karma: Test runner in Browser</li>
-          <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
-          <br>
-          <p>:star: Repos: UnitTestingInAngular, TourOfHeroes-Angular, TourOfHeroes-Angular_Http</p>
-        </ul>
-      </ul>
-  </details>
+          
+ <h4>:star: Angular</h4>
+    <h5>:star: Testing Frameworks: </h5>
+    <details>
+     <summary>Click to expand</summary>
+     <ul> 
+       <li>Jasmine : BDD for JavaScript</li>
+       <li>Karma: Test runner in Browser</li>
+       <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
+       <p>:star: Repos: unitTestingInAngular, tourOfHeroes-Angular, tourOfHeroes-Angular_Http</p>
+     </ul>
+    </details> 
 
   <br>  
-  <h5>:star: TypeScript</h5>
+  
+ <h4>:star: TypeScript</h4>
   <details>
-  <summary>Click to expand</summary>
-   <ul>:star: Repos: iTunes_search_app, Angular-forms-RxJX</ul>
-   <h5>:star: HTML</h5>
-     <ul><p>🚀 Repos: FooderApp</p></ul>
-   </ul>
+   <summary>Click to expand</summary>
+    <ul>:star: Repos: iTunes_search_app, angular-forms-RxJX</ul>
+  </details>
+   <h5>:star: Testing Frameworks: </h5>
+   <details>
+    <summary>Click to expand</summary>
+     <ul>
+      <li>Playwright UI Automation in TypeScript</li>
+      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-typescript </p>
+     </ul>
+   </details>
+
+  <br>
+  
+ <h4>:star: HTML</h4>
+  <details>
+   <ul><p>🚀 Repos: fooderApp</p></ul>
   </details>
   
   <br>
-  <h4>⋆.˚🦋༘⋆ Full Tech Stack:</h4>
+  
+ <h4>⋆.˚🦋༘⋆ Full Tech Stack:</h4>
   <details>
   <summary>Click to expand</summary>
    <ul>
-     <p>:star: Projects: MEAN stack app</p>
+     <p>:star: Repos: meanStackApp</p>
    </ul>
   </details>
   
   <br>
-  <h4>:sparkles: Databases: </h4>
+  
+ <h4>:sparkles: Databases: </h4>
   <details>
   <summary>Click to expand</summary>
    <ul>
@@ -147,7 +157,8 @@
   </details>
   
   <br>
-  <h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
+  
+ <h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
   <details>
   <summary>Click to expand</summary>
    <ul>
@@ -156,7 +167,6 @@
    </ul>
   </div>
   </details>
-
 
 <h2 align="left"><b>I code with: </b></h2>
 <div align="left">
