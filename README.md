@@ -96,7 +96,8 @@
      <ul>
       <p>🔥 Repos: js_jQuery_React_FEUI 🌱</p>
       <li>https://teal-bienenstitch-6e2de9.netlify.app/</li>
-      <li>https://precious-scone-c844ed.netlify.app/</li>
+      <li>https://iridescent-quokka-786002.netlify.app/</li>
+      <li>https://extraordinary-mousse-8546e0.netlify.app/</li>
       <li>https://melodious-licorice-4ac6e1.netlify.app/</li>
     </ul>
   </details>
