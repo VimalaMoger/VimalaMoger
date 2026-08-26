@@ -1,33 +1,13 @@
-
- <div align="center">
-   <div style="width: 100%;">
-       <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/profile.svg">
-          <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-       </a>
-    </div>
- </div>
- 
 <div align="center">  
   <div>
-      <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
+   <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
         <img src="welcome.svg" style="width: 50%;" alt="Click to see the source">
-      </a>
+      </a>   
   </div>
 </div>
 
-<br>
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=VimalaMoger&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalaMoger&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-  <br>
- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=VimalaMoger&theme=github">
-</div>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Welcome+to+my+GitHub+profile!;+These+are+my+repositories+where+I+share+projects+and+learn+new+skills.;+Developing+Real+World+Applications+Through+Practical+Coding.;Exploring+Automation,+Backend,+and+Frontend+Integrations+to+Build+User-Friendly+App)](https://git.io/typing-svg)
 
-<br>
- 
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
   <h4>:star: Java</h4>
