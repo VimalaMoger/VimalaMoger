@@ -19,8 +19,40 @@
        <li>Logack or SLF4J: For logging</li>
        <li>H2 Database: In-memory for testing</li>
        <br>
-       <p>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ Repos: bookmarkingApplication, crudApp, thrillioWeb, myCoolApp, javaConcept-Implementation-I & II, designPatterns, dataStructures_Algorithms, employee-Management-app</p> 
-      <li>https://book-v9.onrender.com/</li>
+       <ul>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ <b>Repos:</b>
+         <li>
+           <a href="https://github.com/VimalaMoger/bookmarkingApplication" target="_blank">bookmarkingApplication</a>
+         </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/crudApp" target="_blank">crudApp</a>
+         </li> 
+         <li>
+           <a href="https://github.com/VimalaMoger/thrillioWeb" target="_blank">thrillioWeb</a>
+        </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/myCoolApp" target="_blank">myCoolApp</a>
+        </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/javaConcept-Implementation-I" target="_blank">javaConcept-Implementation-I</a>
+        </li>
+        <li>
+           <a href="https://github.com/VimalaMoger/javaConcept-Implementation-II" target="_blank">javaConcept-Implementation-II</a>
+        </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/designPatterns" target="_blank">designPatterns</a>
+        </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/dataStructures_Algorithms" target="_blank">dataStructures_Algorithms</a>
+        </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/employee-Management-App" target="_blank">employee-Management-app</a>
+        </li>
+         <ul>
+           <li>
+             <a href="https://book-v9.onrender.com/" target="_blank">employee-Management-app link</a>
+           </li>
+         </ul>
+       </ul> 
      </ul>
    </details>
     <h5>:star: Testing Frameworks: </h5>
@@ -75,10 +107,18 @@
      <summary>Click to expand</summary>
      <ul>
       <p>🔥 Repos: js_jQuery_React_FEUI 🌱</p>
-      <li>https://teal-bienenstitch-6e2de9.netlify.app/</li>
-      <li>https://iridescent-quokka-786002.netlify.app/</li>
-      <li>https://extraordinary-mousse-8546e0.netlify.app/</li>
-      <li>https://thunderous-sunshine-2e7f59.netlify.app/</li>
+        <li> 
+          <a href="https://teal-bienenstitch-6e2de9.netlify.app" target="_blank">Visit Calculator app</a>
+        </li>
+        <li>
+          <a href="https://iridescent-quokka-786002.netlify.app" target="_blank">Visit Connect 4 app</a>
+        </li>
+        <li>
+          <a href="https://extraordinary-mousse-8546e0.netlify.app" target="_blank">Visit jQuery app</a>
+        </li>
+        <li>
+          <a href="https://thunderous-sunshine-2e7f59.netlify.app" target="_blank">Visit E-com Store app</a>
+        </li>
     </ul>
   </details>
   
@@ -128,7 +168,11 @@
   <details>
   <summary>Click to expand</summary>
    <ul>
-     <p>:star: Repos: meanStackApp</p>
+     <li>
+       <p>:star: Spring boot and React full-stack </p>
+       <a href="https://lighthearted-stroopwafel-c66603.netlify.app" target="_blank">Visit my app</a>
+     </li>
+     <li>:star: Repos: meanStackApp</li>
    </ul>
   </details>
   
