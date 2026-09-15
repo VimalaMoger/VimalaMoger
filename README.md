@@ -8,6 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Welcome+to+my+GitHub+profile!;+These+are+my+repositories+where+I+share+projects+and+learn+new+skills.;+Developing+Real+World+Applications+Through+Practical+Coding.;Exploring+Automation,+Backend,+and+Frontend+Integrations+to+Build+User-Friendly+App)](https://git.io/typing-svg)
 
+👤 About me!
+
+I’m a curious learner with experience in QA testing and customer service. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
+
+It’s a pleasure to contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects whenever inspiration strikes!
+
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
   <h4>:star: Java</h4>
