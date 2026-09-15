@@ -67,7 +67,7 @@ I contribute to open-source projects and learning from the amazing people and co
       <summary>Click to expand</summary>
        <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
-       <h6>:star: Browser Automation: </h6> 
+       <h6>:star: UI Automation: </h6> 
          <h6> Integration of Selenium and TestNG </h6>
          <h6> Annotations, test cases grouping, prioritizing, parallel execution, and reporting </h6>
        <br>
@@ -77,7 +77,7 @@ I contribute to open-source projects and learning from the amazing people and co
          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">serenity-ui-test</a></li>
        </ul>
        <br>
-       <h6>:star: REST API testing: </h6>
+       <h6>:star: API Test: </h6>
        <h6>Integration of REST Assured with TestNG, and JUnit</h6>
        <h6>Postman</h6>
        <h6>HTTP Response validation</h6>
