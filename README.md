@@ -1,3 +1,4 @@
+![Styled Heading](./styled.svg)
 <div align="center">  
   <div>
    <a href="https://github.com/VimalaMoger/VimalaMoger/blob/main/welcome.svg">
