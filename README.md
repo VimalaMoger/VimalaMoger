@@ -92,8 +92,8 @@
       <br>
       <h6>°❀⋆.ೃ࿔*:･ Repos: ↩️</h6>
       <ul>
-          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">automatePython</a></li>
-          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">playwright-pytest-ui</a></li>
+          <li><a href="https://github.com/VimalaMoger/automatePython" target="_blank">automatePython</a></li>
+          <li><a href="https://github.com/VimalaMoger/playwright-pytest-ui" target="_blank">playwright-pytest-ui</a></li>
       </ul>
    </details>  
   
@@ -159,7 +159,7 @@
     <h6>:star: Repos: </h6>
     <ul>
       <li>
-        <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">iTunes_search_app</a>
+        <a href="https://github.com/VimalaMoger/iTunes_search_app" target="_blank">iTunes_search_app</a>
       </li>
       <li>
         <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJX</a>
