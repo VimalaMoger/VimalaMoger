@@ -16,11 +16,11 @@ I contribute to open-source projects and learning from the amazing people and co
 
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
-  <h4>:star: Java</h4>
+  <h4>:star: Java, Spring boot, REST API, H2, MySQL</h4>
    <details>
     <summary>Click to expand</summary>
-    <h6>Spring Boot: Java web application development and RESTFul services</h6>
-    <h6>Spring Security: Authentication and authorization implementation</h6>
+    <h6>Spring Boot: Java web development and RESTful services</h6>
+    <h6>Spring Security: Authentication and Authorization implementation</h6>
     <h6>Logack or SLF4J: For logging</h6>
     <h6>H2 Database: In-memory for testing</h6>
     <br>
