@@ -13,13 +13,13 @@
   <h4>:star: Java</h4>
    <details>
     <summary>Click to expand</summary>
-     <ul>
-       <li>Spring Boot: Java web application development and RESTFul services</li>
-       <li>Spring Security: Authentication and authorization implementation</li>
-       <li>Logack or SLF4J: For logging</li>
-       <li>H2 Database: In-memory for testing</li>
-       <br>
-       <ul>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ <b>Repos:</b>
+    <h6>Spring Boot: Java web application development and RESTFul services</h6>
+    <h6>Spring Security: Authentication and authorization implementation</h6>
+    <h6>Logack or SLF4J: For logging</h6>
+    <h6>H2 Database: In-memory for testing</h6>
+    <br>
+    <h6>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ <b>Repos:</b> </h6>
+    <ul>
          <li>
            <a href="https://github.com/VimalaMoger/bookmarkingApplication" target="_blank">bookmarkingApplication</a>
          </li>
@@ -46,58 +46,55 @@
         </li>
          <li>
            <a href="https://github.com/VimalaMoger/employee-Management-App" target="_blank">employee-Management-app</a>
-        </li>
-         <ul>
-           <li>
-             <a href="https://book-v9.onrender.com/" target="_blank">employee-Management-app link</a>
-           </li>
-         </ul>
-       </ul> 
+        </li> 
+     </ul>
+     <ul>
+       <li>
+         <a href="https://book-v9.onrender.com/" target="_blank">employee-Management-app link</a>
+       </li>
      </ul>
    </details>
-    <h5>:star: Testing Frameworks: </h5>
+  
+   <h4>:star: Testing Frameworks: </h4>
     <details>
-    <summary>Click to expand</summary>
-     <ul>
-       <li>JUnit</li>
-       <li>TestNG</li>
-       <li>Mockito</li>
-       <li>Cucumber</li>
-       <li>Spring Test: @SpringBootTest and @WebMvcTest</li>
+      <summary>Click to expand</summary>
+       <h6>JUnit</h6>
+       <h6>TestNG</h6>
+       <h6>Mockito</h6>
+       <h6>Cucumber</h6>
+       <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
-       :star: Browser Automation: 
-         <ul>
-           <li>Integration of Selenium and TestNG</li>
-           <li>Annotations, test cases grouping, prioritizing, parallel execution, and reporting</li>
-           <br>
-           <p>⋆ ˚｡⋆୨୧˚✎ Repos: e2eTesting_Automation, serenity-ui-test</p>
-         </ul>
+       <h6>:star: Browser Automation: </h6> 
+         <h6> Integration of Selenium and TestNG </h6>
+         <h6> Annotations, test cases grouping, prioritizing, parallel execution, and reporting </h6>
        <br>
-       :star: REST API testing: 
-         <ul>
-           <li>Integration of REST Assured with TestNG, and JUnit</li>
-           <li>Postman</li>
-           <ul><li>HTTP Response validation</li></ul>
-         </ul>
-     </ul>
+       <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
+       <ul>  
+         <li><a href="https://github.com/VimalaMoger/e2eTesting_Automation" target="_blank">e2eTesting_Automation</a></li>
+         <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">serenity-ui-test</a></li>
+       </ul>
+       <br>
+       <h6>:star: REST API testing: </h6>
+       <h6>Integration of REST Assured with TestNG, and JUnit</h6>
+       <h6>Postman</h6>
+       <h6>HTTP Response validation</h6>
     </details>
   
   <br>
   
  <h4>:star: Python</h4>
-   <ul>
-     <li>Python programming concepts</li>
-   </ul>
-  <h5>:star: Testing Frameworks: </h5>
+   <h6>Python programming concepts</h6>
+   <h6>:star: Testing Frameworks: </h6>
    <details>
-   <summary>Click to expand</summary>
-    <ul>
-      <li>pytest, unittest, docktest</li>
-      <li>Playwright UI Automation in Python</li>
+     <summary>Click to expand</summary>    
+      <h6>⚡ pytest, unittest, docktest</h6>
+      <h6>⚡ Playwright UI Automation</h6>
       <br>
-      <p>°❀⋆.ೃ࿔*:･ Repos: automatePython</p>
-      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-pytest-ui </p>
-    </ul>
+      <h6>°❀⋆.ೃ࿔*:･ Repos: ↩️</h6>
+      <ul>
+          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">automatePython</a></li>
+          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">playwright-pytest-ui</a></li>
+      </ul>
    </details>  
   
   <br>
@@ -105,8 +102,14 @@
  <h4>:star: jQuery, JavaScript, React</h4>
   <details>
      <summary>Click to expand</summary>
-     <ul>
-      <p>🔥 Repos: js_jQuery_React_FEUI 🌱</p>
+      <h6>🔥 Repos: </h6>
+      <ul>
+        <li> 
+          <a href="https://github.com/VimalaMoger/js_jQuery_React_FrontEndUI" target="_blank">js_jQuery_React_FEUI 🌱</a>
+        </li>
+      </ul>
+      <h6>🔥 Running apps on browser: ↩️</h6>
+      <ul>
         <li> 
           <a href="https://teal-bienenstitch-6e2de9.netlify.app" target="_blank">Visit Calculator app</a>
         </li>
@@ -119,7 +122,7 @@
         <li>
           <a href="https://thunderous-sunshine-2e7f59.netlify.app" target="_blank">Visit E-com Store app</a>
         </li>
-    </ul>
+     </ul>
   </details>
   
   <br>
@@ -128,25 +131,24 @@
     <h5>:star: Testing Frameworks: </h5>
     <details>
      <summary>Click to expand</summary>
-     <ul> 
-       <li>Jasmine : BDD for JavaScript</li>
-       <li>Karma: Test runner in Browser</li>
-       <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
-       <ul>:star: Repos: 
-         <li>
-           <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJS</a>
-         </li>
-         <li>
-           <a href="https://github.com/VimalaMoger/unitTestingInAngular" target="_blank">unitTestingInAngular</a>
-         </li>
-         <li>
-           <a href="https://github.com/VimalaMoger/tourOfHeroes-Angular" target="_blank">tourOfHeroes-Angular</a>
-         </li>
-         <li>
-           <a href="https://github.com/VimalaMoger/tourOfHeroes_Angular_Http" target="_blank">tourOfHeroes-Angular_Http</a>
-         </li>
-       </ul>
-     </ul>
+       <h6>Jasmine : BDD for JavaScript</h6>
+       <h6>Karma: Test runner in Browser</h6>
+       <h6>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
+       <h6>:star: Repos: ↩️ </h6>
+         <ul>
+           <li>
+             <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJS</a>
+           </li>
+           <li>
+             <a href="https://github.com/VimalaMoger/unitTestingInAngular" target="_blank">unitTestingInAngular</a>
+           </li>
+           <li>
+             <a href="https://github.com/VimalaMoger/tourOfHeroes-Angular" target="_blank">tourOfHeroes-Angular</a>
+           </li>
+           <li>
+             <a href="https://github.com/VimalaMoger/tourOfHeroes_Angular_Http" target="_blank">tourOfHeroes-Angular_Http</a>
+           </li>
+         </ul>
     </details> 
 
   <br>  
@@ -154,7 +156,8 @@
  <h4>:star: TypeScript</h4>
   <details>
    <summary>Click to expand</summary>
-    <ul>:star: Repos: 
+    <h6>:star: Repos: </h6>
+    <ul>
       <li>
         <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">iTunes_search_app</a>
       </li>
@@ -166,20 +169,23 @@
    <h5>:star: Testing Frameworks: </h5>
    <details>
     <summary>Click to expand</summary>
-     <ul>
-      <li>Playwright UI Automation in TypeScript</li>
-      <p>°❀⋆.ೃ࿔*:･ Repos: <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">playwright-typescript</a></p>
-     </ul>
+      <h6>Playwright UI Automation in TypeScript</h6>
+      <h6>°❀⋆.ೃ࿔*:･ Repos: </h6>
+        <ul>
+          <li>
+            <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">playwright-typescript</a>
+          </li>
+       </ul>
    </details>
 
   <br>
   
  <h4>:star: HTML, CSS, JavaScript</h4>
   <details>
-   <ul>
-    <p>🚀 Repos: fooderApp</p>
-    <li><a href="https://sweet-torte-0bf6bc.netlify.app" target="_blank">Visit foodarApp</a></li>
-   </ul>
+    <h6>🚀 Repos: fooderApp</h6>
+     <ul>
+      <li><a href="https://sweet-torte-0bf6bc.netlify.app" target="_blank">Visit foodarApp</a></li>
+     </ul>
   </details>
   
   <br>
@@ -187,25 +193,23 @@
  <h4>⋆.˚🦋༘⋆ Full Tech Stack:</h4>
   <details>
   <summary>Click to expand</summary>
-   <ul>
-     <li>
-       <p>:star: Spring boot, React, VITE, AXIOS</p>
-       <a href="https://lighthearted-stroopwafel-c66603.netlify.app" target="_blank">Visit my app</a>
-     </li>
-     <li>:star: MongoDB, Express.js, Angular, Node.js</li>
-     <li>:star: Repos: 
+     <h6>:star: Spring boot, React, VITE, AXIOS</h6>
+     <ul>
+       <li>
+         <a href="https://lighthearted-stroopwafel-c66603.netlify.app" target="_blank">Visit my app</a>
+       </li>
+     </ul>
+     <h6>:star: MongoDB, Express.js, Angular, Node.js</h6>
+     <h6>:star: Repos: </h6>
        <ul>
          <li>
-           <a href="https://github.com/VimalaMoger/springboot-react" target="_blank">springboot-react</a>
-        |
+           <a href="https://github.com/VimalaMoger/springboot-react" target="_blank">springboot-react</a> &
            <a href="https://github.com/VimalaMoger/vite-react-axios" target="_blank">vite-react-axios</a>
          </li>
          <li>
            <a href="https://github.com/VimalaMoger/meanStackApp" target="_blank">meanStackApp</a>
          </li>
        </ul>
-    </li>
-   </ul>
   </details>
   
   <br>
@@ -213,10 +217,8 @@
  <h4>:sparkles: Databases: </h4>
   <details>
   <summary>Click to expand</summary>
-   <ul>
-     <li>MySQL | PL/SQL | MongoDB</li>
-     <li>SQLite</li>
-   </ul>
+   <h6>MySQL | PL/SQL | MongoDB</h6>
+   <h6>SQLite</h6>
   </details>
   
   <br>
@@ -224,12 +226,9 @@
  <h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
   <details>
   <summary>Click to expand</summary>
-   <ul>
-     <li>:star: Docker: Containerization of apps for deployment and testing</li>
-     <li>:star: Jenkins/GitHub Actions: For CI/CD pipelines</li>
-     <li>📦 AWS cloud - build and deployment</li>
-   </ul>
-  </div>
+   <h6>:star: Docker: Containerization of apps for deployment and testing</h6>
+    <h6>:star: Jenkins/GitHub Actions: For CI/CD pipelines</h6>
+    <h6>📦 AWS cloud - build and deployment</h6>
   </details>
 
 <br>
