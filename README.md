@@ -169,7 +169,7 @@ I contribute to open-source projects and learning from the amazing people and co
       </li>
     </ul>
   </details>
-   <h5>:star: Testing Frameworks: TypeScript in Playwright ⚡⚡</h5>
+   <h4>:star: Testing Frameworks: TypeScript in Playwright ⚡⚡</h4>
    <details>
     <summary>Click to expand</summary>
       <h6>UI Automation </h6>
