@@ -132,7 +132,20 @@
        <li>Jasmine : BDD for JavaScript</li>
        <li>Karma: Test runner in Browser</li>
        <li>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</li>
-       <p>:star: Repos: unitTestingInAngular, tourOfHeroes-Angular, tourOfHeroes-Angular_Http</p>
+       <ul>:star: Repos: 
+         <li>
+           <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJS</a>
+         </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/unitTestingInAngular" target="_blank">unitTestingInAngular</a>
+         </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/tourOfHeroes-Angular" target="_blank">tourOfHeroes-Angular</a>
+         </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/tourOfHeroes_Angular_Http" target="_blank">tourOfHeroes-Angular_Http</a>
+         </li>
+       </ul>
      </ul>
     </details> 
 
@@ -141,14 +154,21 @@
  <h4>:star: TypeScript</h4>
   <details>
    <summary>Click to expand</summary>
-    <ul>:star: Repos: iTunes_search_app, angular-forms-RxJX</ul>
+    <ul>:star: Repos: 
+      <li>
+        <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">iTunes_search_app</a>
+      </li>
+      <li>
+        <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJX</a>
+      </li>
+    </ul>
   </details>
    <h5>:star: Testing Frameworks: </h5>
    <details>
     <summary>Click to expand</summary>
      <ul>
       <li>Playwright UI Automation in TypeScript</li>
-      <p>°❀⋆.ೃ࿔*:･ Repos: playwright-typescript</p>
+      <p>°❀⋆.ೃ࿔*:･ Repos: <a href="https://github.com/VimalaMoger/playwright-typescript" target="_blank">playwright-typescript</a></p>
      </ul>
    </details>
 
@@ -158,7 +178,7 @@
   <details>
    <ul>
     <p>🚀 Repos: fooderApp</p>
-    <li>https://sweet-torte-0bf6bc.netlify.app/</li>
+    <li><a href="https://sweet-torte-0bf6bc.netlify.app" target="_blank">Visit foodarApp</a></li>
    </ul>
   </details>
   
@@ -169,10 +189,22 @@
   <summary>Click to expand</summary>
    <ul>
      <li>
-       <p>:star: Spring boot and React full-stack </p>
+       <p>:star: Spring boot, React, VITE, AXIOS</p>
        <a href="https://lighthearted-stroopwafel-c66603.netlify.app" target="_blank">Visit my app</a>
      </li>
-     <li>:star: Repos: meanStackApp</li>
+     <li>:star: MongoDB, Express.js, Angular, Node.js</li>
+     <li>:star: Repos: 
+       <ul>
+         <li>
+           <a href="https://github.com/VimalaMoger/springboot-react" target="_blank">springboot-react</a>
+        |
+           <a href="https://github.com/VimalaMoger/vite-react-axios" target="_blank">vite-react-axios</a>
+         </li>
+         <li>
+           <a href="https://github.com/VimalaMoger/meanStackApp" target="_blank">meanStackApp</a>
+         </li>
+       </ul>
+    </li>
    </ul>
   </details>
   
@@ -195,11 +227,13 @@
    <ul>
      <li>:star: Docker: Containerization of apps for deployment and testing</li>
      <li>:star: Jenkins/GitHub Actions: For CI/CD pipelines</li>
+     <li>📦 AWS cloud - build and deployment</li>
    </ul>
   </div>
   </details>
 
 <br>
+<img width="200" height="200" alt="AI in Healthcare Improving Care and Efficiency" src="https://github.com/user-attachments/assets/4a45e493-ca9c-490e-9658-c28a54e8d860" />
 
 ## Linkedin- [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
 
