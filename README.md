@@ -62,13 +62,9 @@ I contribute to open-source projects and learning from the amazing people and co
      </ul>
    </details>
   
-   <h4>:star: Testing Frameworks: </h4>
+   <h4>:star: Testing Frameworks: JUnit, TestNG, Mockito, Cucumber bdd </h4>
     <details>
       <summary>Click to expand</summary>
-       <h6>JUnit</h6>
-       <h6>TestNG</h6>
-       <h6>Mockito</h6>
-       <h6>Cucumber</h6>
        <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
        <h6>:star: Browser Automation: </h6> 
@@ -91,7 +87,7 @@ I contribute to open-source projects and learning from the amazing people and co
   
  <h4>:star: Python</h4>
    <h6>Python programming concepts</h6>
-   <h6>:star: Testing Frameworks: </h6>
+ <h4>:star: Testing Frameworks: pytest, Playwright</h4>
    <details>
      <summary>Click to expand</summary>    
       <h6>⚡ pytest, unittest, docktest</h6>
@@ -135,7 +131,7 @@ I contribute to open-source projects and learning from the amazing people and co
   <br>
           
  <h4>:star: Angular</h4>
-    <h5>:star: Testing Frameworks: </h5>
+ <h4>:star: Testing Frameworks: Jasmine, Karma, built-in utilities</h4>
     <details>
      <summary>Click to expand</summary>
        <h6>Jasmine : BDD for JavaScript</h6>
@@ -173,7 +169,7 @@ I contribute to open-source projects and learning from the amazing people and co
       </li>
     </ul>
   </details>
-   <h5>:star: Testing Frameworks: </h5>
+   <h5>:star: Testing Frameworks: TypeScript in Playwright</h5>
    <details>
     <summary>Click to expand</summary>
       <h6>Playwright UI Automation in TypeScript</h6>
