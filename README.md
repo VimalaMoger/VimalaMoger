@@ -10,9 +10,9 @@
 
 👤 About me!
 
-I’m a curious learner with experience in QA testing and customer service. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
+I’m a curious learner with experience in QA and Client relations. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
 
-It’s a pleasure to contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects whenever inspiration strikes!
+I contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects whenever inspiration strikes!
 
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
@@ -239,9 +239,11 @@ It’s a pleasure to contribute to open-source projects and learning from the am
   </details>
 
 <br>
-<img width="200" height="200" alt="AI in Healthcare Improving Care and Efficiency" src="https://github.com/user-attachments/assets/4a45e493-ca9c-490e-9658-c28a54e8d860" />
+<img width="150" height="150" alt="AI in Healthcare Improving Care and Efficiency" src="https://github.com/user-attachments/assets/4a45e493-ca9c-490e-9658-c28a54e8d860" />
 
-## Linkedin- [LinkedIn](https://www.linkedin.com/in/vimala-moger-73b291302 "My LinkedIn profile page")
+<br><br>
+
+[![My LinkedIn profile page](https://img.shields.io/badge/-My%20LinkedIn%20Page-green?style=flat)](https://www.linkedin.com/in/vimala-moger-73b291302)
 
 ## Feeding...
 ![snake gif](https://github.com/VimalaMoger/VimalaMoger/blob/output/github-contribution-grid-snake.svg)
