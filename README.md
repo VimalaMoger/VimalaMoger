@@ -6,7 +6,7 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Welcome+to+my+GitHub+profile!;+These+are+my+repositories+where+I+share+projects+and+learn+new+skills.;+Developing+Real+World+Applications+Through+Practical+Coding.;Exploring+Automation,+Backend,+and+Frontend+Integrations+to+Build+User-Friendly+App)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F905E&center=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
 👤 About me!
 
@@ -28,6 +28,8 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Automation and DevOps](https://img.shields.io/badge/-Automation&20DevOps:%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
 | [Backend as a service](https://img.shields.io/badge/-Databases%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Databases%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=+These+are+the+repositories+where+I+share+projects+and+learn+new+skills.;)](https://git.io/typing-svg)
 
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
