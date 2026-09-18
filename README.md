@@ -14,6 +14,21 @@ I’m a curious learner with experience in QA and Client relations. I enjoy lear
 
 I contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects whenever inspiration strikes!
 
+
+
+| [Languages](https://img.shields.io/badge/-Programming%20Languages%20:%20TypeScript,%20JavaScript,%20Python,%20Java-green?style=flat) |
+| [Front-End development](https://img.shields.io/badge/-Frontend:%20Angular,%20React%20native,%20Node.js,%20React,%20Redux%20Toolkit,%20Vite,%20Tailwind%20CSS,%20HTML5,%20CSS3,%20jQuery-green?style=flat) |
+| [Back-End development](https://img.shields.io/badge/-Backend:%20Node.js%20with%20Express%20and%20JavaScript,%20Spring%20Boot%20with%20Java-green?style=flat) |
+| [Databases](https://img.shields.io/badge/-Databases%20:%20MySQL,%20MongoDB-green?style=flat) |
+| [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium,%20Playwright-green?style=flat) |
+| [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured-green?style=flat) |
+| [Python Automation](https://img.shields.io/badge/-Python%20based%20:%20Playwright,%20Pytest-green?style=flat) |
+| [HTTP Requests](https://img.shields.io/badge/-API%20responses%20:%20AXIOS,%20Fetch%20API-green?style=flat) |
+| [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks:%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
+| [Automation and DevOps](https://img.shields.io/badge/-Automation&20DevOps:%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
+| [Backend as a service](https://img.shields.io/badge/-Databases%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
+| [Angular unit test](https://img.shields.io/badge/-Databases%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
+
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
   <h4>:star: Java, Spring boot, REST API, H2, MySQL</h4>
