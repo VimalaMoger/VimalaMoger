@@ -22,10 +22,10 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Databases](https://img.shields.io/badge/-Databases%20:%20MySQL,%20MongoDB-green?style=flat) |
 | [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium,%20Playwright-green?style=flat) |
 | [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured-green?style=flat) |
-| [Python Automation](https://img.shields.io/badge/-Python%20based%20:%20Playwright,%20Pytest-green?style=flat) |
+| [Python Automation](https://img.shields.io/badge/-Python%20based%20UI%20Testing:%20Playwright,%20Pytest-green?style=flat) |
 | [HTTP Requests](https://img.shields.io/badge/-API%20responses%20:%20AXIOS,%20Fetch%20API-green?style=flat) |
 | [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks:%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
-| [Automation and DevOps](https://img.shields.io/badge/-Automation&20DevOps:%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
+| [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
 | [Backend as a service](https://img.shields.io/badge/-Databases%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Databases%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
 
