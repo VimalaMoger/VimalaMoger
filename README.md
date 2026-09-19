@@ -140,7 +140,7 @@ I contribute to open-source projects and learning from the amazing people and co
           <a href="https://extraordinary-mousse-8546e0.netlify.app" target="_blank">Visit jQuery app</a>
         </li>
         <li>
-          <a href="https://thunderous-sunshine-2e7f59.netlify.app" target="_blank">Visit E-com Store app</a>
+          <a href="https://sage-mousse-a7b3f7.netlify.app/" target="_blank">Visit E-com Store app</a>
         </li>
      </ul>
   </details>
