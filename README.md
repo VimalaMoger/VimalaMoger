@@ -22,12 +22,12 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Databases](https://img.shields.io/badge/-Databases%20:%20MySQL,%20MongoDB-green?style=flat) |
 | [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium,%20Playwright-green?style=flat) |
 | [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured-green?style=flat) |
-| [Python Automation](https://img.shields.io/badge/-Python%20based%20UI%20Testing:%20Playwright,%20Pytest-green?style=flat) |
+| [Python Automation](https://img.shields.io/badge/-Python%20Automation%20:%20Pytest,%20Playwright-green?style=flat) |
 | [HTTP Requests](https://img.shields.io/badge/-API%20responses%20:%20AXIOS,%20Fetch%20API-green?style=flat) |
-| [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks:%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
-| [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
-| [Backend as a service](https://img.shields.io/badge/-Databases%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
-| [Angular unit test](https://img.shields.io/badge/-Databases%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
+| [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
+| [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
+| [Backend as a service](https://img.shields.io/badge/-Cloud%20service%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
+| [Angular unit test](https://img.shields.io/badge/-Angular%20Test%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=+These+are+the+repositories+where+I+share+projects+and+learn+new+skills.;)](https://git.io/typing-svg)
 
