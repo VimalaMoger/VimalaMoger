@@ -48,13 +48,13 @@ I contribute to open-source projects and learning from the amazing people and co
            <a href="https://github.com/VimalaMoger/bookmarking_application" target="_blank">bookmarkingApplication</a>
          </li>
          <li>
-           <a href="https://github.com/VimalaMoger/crud_app_under_test" target="_blank">CRUD App</a>
+           <a href="https://github.com/VimalaMoger/crud_app_under_test" target="_blank">crud_app</a>
          </li> 
          <li>
            <a href="https://github.com/VimalaMoger/thrillioWeb" target="_blank">thrillioWeb</a>
         </li>
          <li>
-           <a href="https://github.com/VimalaMoger/springboot_app_under_test" target="_blank">Spring Boot App</a>
+           <a href="https://github.com/VimalaMoger/springboot_app_under_test" target="_blank">spring_boot_app_under-test</a>
         </li>
          <li>
            <a href="https://github.com/VimalaMoger/java_concept-impl-I" target="_blank">javaConcept-Implementation-I</a>
