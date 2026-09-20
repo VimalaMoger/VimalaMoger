@@ -86,7 +86,7 @@ I contribute to open-source projects and learning from the amazing people and co
        <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
-         <h6> Integration of Selenium and TestNG </h6>
+         <h6> Integration of Selenium and TestNG: Running test code in Docker Container, GitHub push/actions, Running builds inside Docker containers           in Jenkins pipelines</h6>
          <h6> Annotations, test cases grouping, prioritizing, parallel execution, and reporting </h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
