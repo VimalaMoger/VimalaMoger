@@ -37,10 +37,10 @@ I contribute to open-source projects and learning from the amazing people and co
   <h4>:star: Java, Spring boot, REST API, H2, MySQL</h4>
    <details>
     <summary>Click to expand</summary>
-    <h6>Spring Boot: Java web development and RESTful services</h6>
-    <h6>Spring Security: Authentication and Authorization implementation</h6>
-    <h6>Logack or SLF4J: For logging</h6>
-    <h6>H2 Database: In-memory for testing</h6>
+    <h6>🟥Spring Boot: Java web development and RESTful services</h6>
+    <h6>🟧Spring Security: Authentication and Authorization implementation</h6>
+    <h6>🟨Logack or SLF4J: For logging</h6>
+    <h6>🟩H2 Database: In-memory for testing</h6>
     <br>
     <h6>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ <b>Repos:</b> </h6>
     <ul>
@@ -83,11 +83,11 @@ I contribute to open-source projects and learning from the amazing people and co
    <h4>:star: Testing Frameworks: JUnit, TestNG, Mockito, MockMvc, Cucumber bdd ⚡⚡</h4>
     <details>
       <summary>Click to expand</summary>
-       <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
+       <h6>🟦Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
-         <h6> Integration of Selenium and TestNG: Running test code in Docker Container, GitHub push/actions, Running builds inside Docker containers           in Jenkins pipelines</h6>
-         <h6> Annotations, test cases grouping, prioritizing, parallel execution, and reporting (serenity-test-report, cucumber-html report) </h6>
+         <h6>🟪Integration of Selenium and TestNG: Running test code in Docker Container, GitHub push/actions, Running builds inside Docker   containers in Jenkins pipelines</h6>
+         <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reporting (serenity-test-report, cucumber-html report) </h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
        <ul>  
@@ -96,9 +96,9 @@ I contribute to open-source projects and learning from the amazing people and co
        </ul>
        <br>
        <h6>:star: API Test: </h6>
-       <h6>Integration of REST Assured with TestNG, and JUnit</h6>
-       <h6>Postman</h6>
-       <h6>Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
+       <h6>⬛Integration of REST Assured with TestNG, and JUnit</h6>
+       <h6>🟪Postman</h6>
+       <h6>⬜Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
        </h6> 
        <h6>HTTP Response validation</h6>
        <ul>
@@ -109,12 +109,12 @@ I contribute to open-source projects and learning from the amazing people and co
   <br>
   
  <h4>:star: Python</h4>
-   <h6>Python programming concepts</h6>
+   <h6>⬜Python programming concepts</h6>
  <h4>:star: Python Automation: Python Libraries, Pytest, Playwright ⚡⚡</h4>
    <details>
      <summary>Click to expand</summary>    
-      <h6> pytest, unittest, docktest</h6>
-      <h6> UI Automation</h6>
+      <h6>🟦pytest, unittest, docktest</h6>
+      <h6>🟦UI Automation</h6>
       <br>
       <h6>°❀⋆.ೃ࿔*:･ Repos: ↩️</h6>
       <ul>
@@ -157,9 +157,9 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:star: Testing Frameworks: Jasmine, Karma, built-in utilities ⚡⚡</h4>
     <details>
      <summary>Click to expand</summary>
-       <h6>Jasmine : BDD for JavaScript</h6>
-       <h6>Karma: Test runner in Browser</h6>
-       <h6>Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
+       <h6>🟦Jasmine : BDD for JavaScript</h6>
+       <h6>🟩Karma: Test runner in Browser</h6>
+       <h6>🟢Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
        <h6>:star: Repos: ↩️ </h6>
          <ul>
            <li>
@@ -186,7 +186,7 @@ I contribute to open-source projects and learning from the amazing people and co
    <h4>:star: Testing Frameworks: TypeScript in Playwright ⚡⚡</h4>
    <details>
     <summary>Click to expand</summary>
-      <h6>UI Automation </h6>
+      <h6>🟢UI Automation </h6>
       <h6>°❀⋆.ೃ࿔*:･ Repo: </h6>
         <ul>
           <li>
@@ -243,8 +243,8 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:sparkles: Databases: </h4>
   <details>
   <summary>Click to expand</summary>
-   <h6>MySQL | PL/SQL | MongoDB</h6>
-   <h6>SQLite</h6>
+   <h6>🟪MySQL | PL/SQL | MongoDB</h6>
+   <h6>🟧SQLite</h6>
   </details>
   
   <br>
