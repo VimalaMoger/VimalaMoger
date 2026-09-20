@@ -28,6 +28,7 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
 | [Backend as a service](https://img.shields.io/badge/-Cloud%20service%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Angular%20Test%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
+| [Jira REST APIs test](https://img.shields.io/badge/-API%20Test%20:%20Issue%20creation,%20update,%20read,%20and%20delete;%20send%20File%20Attachment-green?style=flat) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=+These+are+the+repositories+where+I+share+projects+and+learn+new+skills.;)](https://git.io/typing-svg)
 
@@ -79,7 +80,7 @@ I contribute to open-source projects and learning from the amazing people and co
      </ul>
    </details>
   
-   <h4>:star: Testing Frameworks: JUnit, TestNG, Mockito, Cucumber bdd ⚡⚡</h4>
+   <h4>:star: Testing Frameworks: JUnit, TestNG, Mockito, MockMvc, Cucumber bdd ⚡⚡</h4>
     <details>
       <summary>Click to expand</summary>
        <h6>Spring Test: @SpringBootTest and @WebMvcTest</h6>
@@ -97,6 +98,8 @@ I contribute to open-source projects and learning from the amazing people and co
        <h6>:star: API Test: </h6>
        <h6>Integration of REST Assured with TestNG, and JUnit</h6>
        <h6>Postman</h6>
+       <h6>Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
+       </h6> 
        <h6>HTTP Response validation</h6>
        <ul>
          <li><a href="https://github.com/VimalaMoger/restAssured" target="_blank">rest assured</a></li>
