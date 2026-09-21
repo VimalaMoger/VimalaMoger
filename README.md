@@ -20,18 +20,17 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Front-End development](https://img.shields.io/badge/-Frontend:%20Angular,%20React%20native,%20Node.js,%20React,%20Redux%20Toolkit,%20Vite,%20Tailwind%20CSS,%20HTML5,%20CSS3,%20jQuery-green?style=flat) |
 | [Back-End development](https://img.shields.io/badge/-Backend:%20Node.js%20with%20Express%20and%20JavaScript,%20Spring%20Boot%20with%20Java-green?style=flat) |
 | [Databases](https://img.shields.io/badge/-Databases%20:%20MySQL,%20MongoDB-green?style=flat) |
-| [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium%20with%20JUnit%20,%20TestNG%20,%20CucumberBDD%20,%20Playwright-green?style=flat) |
-| [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured%20Postman-green?style=flat) |
+| [UI Automation](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium%20with%20JUnit,%20TestNG;%20Playwright%20with%20GitHub%20Actions%20and%20Allure%20reports;%20Serenity-green?style=flat) |
+| [REST API Automation](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured%20with%20Cucumber%20BDD%20and%20JUnit;%20Cucumber%20HTML%20reporting;%20GitHub%20Actions;%20Postman-green?style=flat) | 
 | [Python Automation](https://img.shields.io/badge/-Python%20Automation%20:%20Pytest,%20Playwright-green?style=flat) |
 | [HTTP Requests](https://img.shields.io/badge/-API%20responses%20:%20AXIOS,%20Fetch%20API-green?style=flat) |
-| [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
 | [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
 | [Backend as a service](https://img.shields.io/badge/-Cloud%20service%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Angular%20Test%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
 | [Jira REST APIs testing](https://img.shields.io/badge/-API%20Test%20:%20Issue%20creation,%20update,%20read,%20and%20delete;%20send%20File%20Attachment-green?style=flat) |
 | [Unit Testing](https://img.shields.io/badge/-TDD%20:%20Integration%20with%20Maven;%20CI/%20CD;%20Automated%20regression%20testing;%20Mockito%20with%20JUnit,%20and%20TestNG-green?style=flat) | 
 | [Integration Testing](https://img.shields.io/badge/-MockMvc%20:%20HTTP%20requests,%20Response%20validation-green?style=flat) |
-| [Build Tools](https://img.shields.io/badge/-BuildTools%20:%20JUnit,%20Integration,%20and%20End2End%20with%20Maven;%20Vite-green?style=flat) |
+| [Build Tools](https://img.shields.io/badge/-BuildTools%20:%20JUnit,%20Integration,%20and%20End2End%20with%20Maven;%20React%20with%20Vite-green?style=flat) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=Languages;+Front-End+development;+Back-End+development;+Databases;+UI+Testing;+API+Testing;+Python+Automation;+HTTP+Requests;+Test+Frameworks;+Automation+and+DevOps;+Backend+as+a+service;+Angular+unit+testing;+Jira+REST+API+test;+Unit+Testing;+Integration+Testing;+Build+Tools;)](https://git.io/typing-svg)
 
@@ -40,10 +39,10 @@ I contribute to open-source projects and learning from the amazing people and co
   <h4>:star: Java, Spring boot, REST API, H2, MySQL</h4>
    <details>
     <summary>Click to expand</summary>
-    <h6>🟥Spring Boot: Java web development and RESTful services</h6>
-    <h6>🟧Spring Security: Authentication and Authorization implementation</h6>
-    <h6>🟨Logack or SLF4J: For logging</h6>
-    <h6>🟩H2 Database: In-memory for testing</h6>
+    <h6>🟥 Spring Boot: Java web development and RESTful services</h6>
+    <h6>🟧 Spring Security: Authentication and Authorization implementation</h6>
+    <h6>🟨 Logack or SLF4J: For logging</h6>
+    <h6>🟩 H2 Database: In-memory for testing</h6>
     <br>
     <h6>꧁𓊈𒆜𝓟𝓻𝓸𒆜𓊉꧂ <b>Repos:</b> </h6>
     <ul>
@@ -83,19 +82,22 @@ I contribute to open-source projects and learning from the amazing people and co
      </ul>
    </details>
   
-   <h4>:star: Testing Frameworks: JUnit, TestNG, Mockito, MockMvc, Cucumber bdd ⚡⚡</h4>
+   <h4>:star: Testing Frameworks: </h4> 
+   <h6>🟫 JUnit, Mockito, MockMvc</h6>
+   <h6>⬛ Selenium, REST Assured, Serenity(Selenium/Cucumber), TestNG, Cucumber BDD</h6>
     <details>
       <summary>Click to expand</summary>
-       <h6>🟦Spring Test: @SpringBootTest and @WebMvcTest</h6>
-       <h6>🟥Unit, Integration Testing</h6>
-       <h6>⬜ TDD; Integration with Maven; CI/CD; Automated regression testing; Mockito with JUnit, and TestNG</h6>
+       <h6>🟦 Spring Test: @SpringBootTest and @WebMvcTest</h6>
+       <h6>🟥 Unit, Integration Testing</h6>
+       <h6>⬜ JUnit - TDD; Integration with Maven; CI/CD; Automated regression testing; Mockito with JUnit</h6>
        <h6>⬜ MockMvc: Making Endpoint calls, Response verification</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
-         <h6>🟪Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
-         <h6>🟦Parallel & End-to-end test; Selenium Grid containerized to perform cross-browser testing</h6>
-         <h6>⬜Dockerfile & Docker Compose to build, test and deploy</h6>
-         <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reporting (serenity-test-report, cucumber-html report) </h6>
+         <h6>🟪 Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
+         <h6>🟦 Parallel & End-to-end test; Selenium Grid containerized to perform cross-browser testing</h6>
+         <h6>⬜ Dockerfile & Docker Compose to build, test and deploy</h6>
+         <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reporting (Custom report) </h6>
+         <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, serenity-test-report</h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
        <ul>  
@@ -103,10 +105,10 @@ I contribute to open-source projects and learning from the amazing people and co
          <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">serenity-ui-test</a></li>
        </ul>
        <br>
-       <h6>:star: API Test: </h6>
-       <h6>⬛Integration of REST Assured with TestNG, and JUnit</h6>
-       <h6>🟪Postman</h6>
-       <h6>⬜Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
+       <h6>:star: REST API Automation: </h6>
+       <h6>⬛ Integration of REST Assured with Cucumber bdd, and JUnit; Cucumber HTML reporting; GitHub Actions</h6>
+       <h6>🟪 Postman</h6>
+       <h6>⬜ Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
        </h6> 
        <h6>HTTP Response validation</h6>
        <ul>
@@ -116,12 +118,13 @@ I contribute to open-source projects and learning from the amazing people and co
   
   <br>  
  <h4>:star: Python</h4>
-   <h6>⬜Python programming concepts</h6>
+   <h6>⬜ Python programming concepts</h6>
  <h4>:star: Python Automation: Python Libraries, Pytest, Playwright ⚡⚡</h4>
    <details>
      <summary>Click to expand</summary>    
-      <h6>🟦pytest, unittest, docktest</h6>
-      <h6>🟦UI Automation</h6>
+      <h6>🟦 Unittest, Docktest</h6>
+      <h6>🟫 UI Automation</h6>
+      <h6>Pytest BDD, fixture reusability and HTML reports, Page Object Models, Log activities to a file</h6>
       <br>
       <h6>°❀⋆.ೃ࿔*:･ Repos: ↩️</h6>
       <ul>
@@ -162,9 +165,9 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:star: Testing Frameworks: Jasmine, Karma, built-in utilities ⚡⚡</h4>
     <details>
      <summary>Click to expand</summary>
-       <h6>🟦Jasmine : BDD for JavaScript</h6>
-       <h6>🟩Karma: Test runner in Browser</h6>
-       <h6>🟢Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
+       <h6>🟦 Jasmine : BDD for JavaScript</h6>
+       <h6>🟩 Karma: Test runner in Browser</h6>
+       <h6>🟢 Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
        <h6>:star: Repos: ↩️ </h6>
          <ul>
            <li>
@@ -190,7 +193,8 @@ I contribute to open-source projects and learning from the amazing people and co
    <h4>:star: Testing Frameworks: TypeScript in Playwright ⚡⚡</h4>
    <details>
     <summary>Click to expand</summary>
-      <h6>🟢UI Automation </h6>
+      <h6>🟢 UI Automation </h6>
+     <h6>🟪 Playwright with GitHub Actions and Allure reports</h6>
       <h6>°❀⋆.ೃ࿔*:･ Repo: </h6>
         <ul>
           <li>
@@ -244,15 +248,15 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:sparkles: Databases: </h4>
   <details>
   <summary>Click to expand</summary>
-   <h6>🟪MySQL | PL/SQL | MongoDB</h6>
-   <h6>🟧SQLite</h6>
+   <h6>🟪 MySQL | PL/SQL | MongoDB</h6>
+   <h6>🟧 SQLite</h6>
   </details>
   
   <br>
  <h4>❇️ Build Tools:</h4>
  <details>
    <summary>Click to expand</summary>
-   <h6>JUnit, Integration, and End-to-end tests with Maven; React with Vite</h6>
+   <h6>🟪 JUnit, Integration, and End-to-end tests with Maven; React with Vite</h6>
  </details>
 
   <br>  
