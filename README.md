@@ -86,7 +86,9 @@ I contribute to open-source projects and learning from the amazing people and co
        <h6>🟦Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
-         <h6>🟪Integration of Selenium and TestNG: Running test code in Docker Container, GitHub push/actions, Running builds inside Docker   containers in Jenkins pipelines</h6>
+         <h6>🟪Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
+         <h6>🟦Parallel & End-to-end test; Selenium Grid containerized to perform cross-browser testing</h6>
+         <h6>⬜Dockerfile & Docker Compose to build, test and deploy</h6>
          <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reporting (serenity-test-report, cucumber-html report) </h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
@@ -252,8 +254,8 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
   <details>
   <summary>Click to expand</summary>
-   <h6>:star: Docker: Containerization of apps for deployment and testing</h6>
-    <h6>:star: Jenkins/GitHub Actions: For CI/CD pipelines</h6>
+   <h6>:star: Docker: Execution of test automation script; Docker image build & push to Docker Hub & deployment on Render</h6>
+    <h6>:star: Jenkins/GitHub Actions: Docker build integration with CI/CD</h6>
     <h6>📦 AWS cloud - build and deployment</h6>
   </details>
 
