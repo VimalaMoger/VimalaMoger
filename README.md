@@ -20,8 +20,8 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Front-End development](https://img.shields.io/badge/-Frontend:%20Angular,%20React%20native,%20Node.js,%20React,%20Redux%20Toolkit,%20Vite,%20Tailwind%20CSS,%20HTML5,%20CSS3,%20jQuery-green?style=flat) |
 | [Back-End development](https://img.shields.io/badge/-Backend:%20Node.js%20with%20Express%20and%20JavaScript,%20Spring%20Boot%20with%20Java-green?style=flat) |
 | [Databases](https://img.shields.io/badge/-Databases%20:%20MySQL,%20MongoDB-green?style=flat) |
-| [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium,%20Playwright-green?style=flat) |
-| [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured-green?style=flat) |
+| [UI Testing](https://img.shields.io/badge/-UI%20Automation%20:%20Selenium%20with%20JUnit%20,%20TestNG%20,%20CucumberBDD%20,%20Playwright-green?style=flat) |
+| [API Testing](https://img.shields.io/badge/-API%20Testing%20:%20REST%20Assured%20Postman-green?style=flat) |
 | [Python Automation](https://img.shields.io/badge/-Python%20Automation%20:%20Pytest,%20Playwright-green?style=flat) |
 | [HTTP Requests](https://img.shields.io/badge/-API%20responses%20:%20AXIOS,%20Fetch%20API-green?style=flat) |
 | [Test Frameworks](https://img.shields.io/badge/-Test%20Frameworks%20:%20JUnit,%20TestNG,%20Cucumber%20BDD-green?style=flat) |
@@ -29,6 +29,9 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Backend as a service](https://img.shields.io/badge/-Cloud%20service%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Angular%20Test%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
 | [Jira REST APIs test](https://img.shields.io/badge/-API%20Test%20:%20Issue%20creation,%20update,%20read,%20and%20delete;%20send%20File%20Attachment-green?style=flat) |
+| [Unit Testing](https://img.shields.io/badge/-TDD%20:%20Integration%20with%20Maven;%20CI/%20CD;%20Automated%20regression%20testing;%20Mockito%20with%20JUnit,%20and%20TestNG-green?style=flat) | 
+| [Integration Testing](https://img.shields.io/badge/-MockMvc%20:%20HTTP%20requests,%20Response%20validation-green?style=flat) |
+| [Build Tools](https://img.shields.io/badge/-BuildTools%20:%20JUnit,%20Integration,%20and%20End2End%20with%20Maven;%20Vite-green?style=flat) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=+These+are+the+repositories+where+I+share+projects+and+learn+new+skills.;)](https://git.io/typing-svg)
 
@@ -84,6 +87,9 @@ I contribute to open-source projects and learning from the amazing people and co
     <details>
       <summary>Click to expand</summary>
        <h6>🟦Spring Test: @SpringBootTest and @WebMvcTest</h6>
+       <h6>🟥Unit, Integration Testing</h6>
+       <h6>⬜ TDD; Integration with Maven; CI/CD; Automated regression testing; Mockito with JUnit, and TestNG</h6>
+       <h6>⬜ MockMvc: Making Endpoint calls, Response verification</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
          <h6>🟪Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
@@ -108,8 +114,7 @@ I contribute to open-source projects and learning from the amazing people and co
        </ul>
     </details>
   
-  <br>
-  
+  <br>  
  <h4>:star: Python</h4>
    <h6>⬜Python programming concepts</h6>
  <h4>:star: Python Automation: Python Libraries, Pytest, Playwright ⚡⚡</h4>
@@ -125,8 +130,7 @@ I contribute to open-source projects and learning from the amazing people and co
       </ul>
    </details>  
   
-  <br>
-  
+  <br>  
  <h4>:star: jQuery, JavaScript, React</h4>
   <details>
      <summary>Click to expand</summary>
@@ -153,8 +157,7 @@ I contribute to open-source projects and learning from the amazing people and co
      </ul>
   </details>
   
-  <br>
-          
+  <br>          
  <h4>:star: Angular</h4>
  <h4>:star: Testing Frameworks: Jasmine, Karma, built-in utilities ⚡⚡</h4>
     <details>
@@ -182,8 +185,7 @@ I contribute to open-source projects and learning from the amazing people and co
          </ul>
     </details> 
 
-  <br>  
-  
+  <br>    
  <h4>:star: TypeScript</h4>
    <h4>:star: Testing Frameworks: TypeScript in Playwright ⚡⚡</h4>
    <details>
@@ -197,8 +199,7 @@ I contribute to open-source projects and learning from the amazing people and co
        </ul>
    </details>
 
-  <br>
-  
+  <br>  
  <h4>:star: HTML, CSS, JavaScript</h4>
   <details>
     <h6>🚀 Repo: fooderApp</h6>
@@ -213,8 +214,7 @@ I contribute to open-source projects and learning from the amazing people and co
      </ul>
   </details>
   
-  <br>
-  
+  <br>  
  <h4>⋆.˚🦋༘⋆ Full Tech Stack:</h4>
   <details>
   <summary>Click to expand</summary>
@@ -240,8 +240,7 @@ I contribute to open-source projects and learning from the amazing people and co
         </ul>
   </details>
   
-  <br>
-  
+  <br>  
  <h4>:sparkles: Databases: </h4>
   <details>
   <summary>Click to expand</summary>
@@ -250,7 +249,13 @@ I contribute to open-source projects and learning from the amazing people and co
   </details>
   
   <br>
-  
+ <h4>❇️ Build Tools:</h4>
+ <details>
+   <summary>Click to expand</summary>
+   <h6>JUnit, Integration, and End-to-end tests with Maven;%20Vite</h6>
+ </details>
+
+  <br>  
  <h4>:sparkles: DevOps/CI/CD/Cloud: ⋆.˚🦋༘⋆</h4>
   <details>
   <summary>Click to expand</summary>
