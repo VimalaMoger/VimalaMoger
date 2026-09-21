@@ -6,7 +6,7 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F905E&center=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&repeat=false&color=9F905E&center=true&width=1000&lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
 👤 About me!
 
@@ -28,12 +28,12 @@ I contribute to open-source projects and learning from the amazing people and co
 | [Automation and DevOps](https://img.shields.io/badge/-Automation%20and%20DevOps%20:%20Docker,%20Jenkins,%20GitHub%20Actions-green?style=flat) |
 | [Backend as a service](https://img.shields.io/badge/-Cloud%20service%20:%20AWS%20cloud,%20Netlify,%20Render,%20Docker%20Hub-green?style=flat) |
 | [Angular unit test](https://img.shields.io/badge/-Angular%20Test%20:%20Jasmine,%20Karma%20Test%20Runner-green?style=flat) |
-| [Jira REST APIs test](https://img.shields.io/badge/-API%20Test%20:%20Issue%20creation,%20update,%20read,%20and%20delete;%20send%20File%20Attachment-green?style=flat) |
+| [Jira REST APIs testing](https://img.shields.io/badge/-API%20Test%20:%20Issue%20creation,%20update,%20read,%20and%20delete;%20send%20File%20Attachment-green?style=flat) |
 | [Unit Testing](https://img.shields.io/badge/-TDD%20:%20Integration%20with%20Maven;%20CI/%20CD;%20Automated%20regression%20testing;%20Mockito%20with%20JUnit,%20and%20TestNG-green?style=flat) | 
 | [Integration Testing](https://img.shields.io/badge/-MockMvc%20:%20HTTP%20requests,%20Response%20validation-green?style=flat) |
 | [Build Tools](https://img.shields.io/badge/-BuildTools%20:%20JUnit,%20Integration,%20and%20End2End%20with%20Maven;%20Vite-green?style=flat) |
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=+These+are+the+repositories+where+I+share+projects+and+learn+new+skills.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=2px+Code&pause=2000&duration=5000&color=D0C27E&center=true&width=1000&lines=Languages;+Front-End+development;+Back-End+development;+Databases;+UI+Testing;+API+Testing;+Python+Automation;+HTTP+Requests;+Test+Frameworks;+Automation+and+DevOps;+Backend+as+a+service;+Angular+unit+testing;+Jira+REST+API+test;+Unit+Testing;+Integration+Testing;+Build+Tools;)](https://git.io/typing-svg)
 
 <div align="left">  
  <h1>:sparkles: Tech Stack:</h1>
