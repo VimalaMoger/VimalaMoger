@@ -252,7 +252,7 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>❇️ Build Tools:</h4>
  <details>
    <summary>Click to expand</summary>
-   <h6>JUnit, Integration, and End-to-end tests with Maven;%20Vite</h6>
+   <h6>JUnit, Integration, and End-to-end tests with Maven; React with Vite</h6>
  </details>
 
   <br>  
