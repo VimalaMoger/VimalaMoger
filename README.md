@@ -96,7 +96,7 @@ I contribute to open-source projects and learning from the amazing people and co
          <h6>🟪 Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
          <h6>🟦 Parallel & End-to-end test; Selenium Grid for cross-browser testing</h6>
          <h6>⬜ Dockerfile & Docker Compose to build, test and deploy</h6>
-         <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, Serenity testreport</h6>
+         <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, Serenity test report</h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
        <ul>  
@@ -182,7 +182,7 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:star: API component Test: Jasmine, built-in utilities ⚡⚡</h4>
     <details>
      <summary>Click to expand</summary>
-       <h6>🟦 Jasmine BDD, Template-Driven form</h6>
+       <h6>🟦 Jasmine BDD, Template-Driven forms</h6>
        <h6>🟢 Angular built-in utilites like TestBed, ComponentFixture, HTTP, Mocking Services</h6>
        <h6>🟪 Model-driven/Reactive forms: RxJS(Observable), HTTP requests, Angular Operators</h6>
        <h6>:star: Repos: ↩️ </h6>
