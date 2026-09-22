@@ -12,7 +12,7 @@
 
 I’m a curious learner with experience in QA and Client relations. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
 
-I contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects whenever inspiration strikes!
+I contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects in my free time.
 
 
 
@@ -39,8 +39,8 @@ I contribute to open-source projects and learning from the amazing people and co
   <h4>:star: Java, Spring boot, REST API, H2, MySQL</h4>
    <details>
     <summary>Click to expand</summary>
-    <h6>🟥 Spring Boot: Java web development and RESTful services</h6>
-    <h6>🟧 Spring Security: Authentication and Authorization implementation</h6>
+    <h6>🟥 Spring Boot: Java web development and RESTful APIs</h6>
+    <h6>🟧 Spring Security: Authentication and Authorization</h6>
     <h6>🟨 Logack or SLF4J: For logging</h6>
     <h6>🟩 H2 Database: In-memory for testing</h6>
     <br>
@@ -85,19 +85,18 @@ I contribute to open-source projects and learning from the amazing people and co
    <h4>:star: Testing Frameworks: </h4> 
    <h6>🟫 JUnit, Mockito, MockMvc</h6>
    <h6>⬛ Selenium, REST Assured, Serenity(Selenium/Cucumber), TestNG, Cucumber BDD</h6>
+   <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reports</h6>
     <details>
       <summary>Click to expand</summary>
-       <h6>🟦 Spring Test: @SpringBootTest and @WebMvcTest</h6>
        <h6>🟥 Unit, Integration Testing</h6>
-       <h6>⬜ JUnit - TDD; Integration with Maven; CI/CD; Automated regression testing; Mockito with JUnit</h6>
-       <h6>⬜ MockMvc: Making Endpoint calls, Response verification</h6>
+       <h6>⬜ JUnit - TDD; Integration with Maven; CI/CD; Mockito with JUnit</h6>
+       <h6>⬜ MockMvc: Endpoints Request, Response validation</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
          <h6>🟪 Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
-         <h6>🟦 Parallel & End-to-end test; Selenium Grid containerized to perform cross-browser testing</h6>
+         <h6>🟦 Parallel & End-to-end test; Selenium Grid for cross-browser testing</h6>
          <h6>⬜ Dockerfile & Docker Compose to build, test and deploy</h6>
-         <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reporting (Custom report) </h6>
-         <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, serenity-test-report</h6>
+         <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, Serenity testreport</h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
        <ul>  
@@ -108,7 +107,7 @@ I contribute to open-source projects and learning from the amazing people and co
        <h6>:star: REST API Automation: </h6>
        <h6>⬛ Integration of REST Assured with Cucumber bdd, and JUnit; Cucumber HTML reporting; GitHub Actions</h6>
        <h6>🟪 Postman</h6>
-       <h6>⬜ Jira REST APIs test --- Issue creation, update, read and delete; send File Attachment
+       <h6>⬜ Jira REST APIs test - Issue creation, update, read and delete; send File Attachment
        </h6> 
        <h6>HTTP Response validation</h6>
        <ul>
@@ -124,7 +123,7 @@ I contribute to open-source projects and learning from the amazing people and co
      <summary>Click to expand</summary>    
       <h6>🟦 Unittest, Docktest</h6>
       <h6>🟫 UI Automation</h6>
-      <h6>Pytest BDD, fixture reusability and HTML reports, Page Object Models, Log activities to a file</h6>
+      <h6>Pytest BDD, fixture reusability and HTML reports, Page Object Models, Log activities</h6>
       <br>
       <h6>°❀⋆.ೃ࿔*:･ Repos: ↩️</h6>
       <ul>
@@ -164,8 +163,7 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:star: Angular: TypeScript, CSS, HTML, RxJS</h4>
   <details>
      <summary>Click to expand</summary>
-       <h6>🟩 Single Page application</h6>
-       <h6>⬛ Angular routing, data binding</h6>
+       <h6>🟩 Single Page application with angular routing</h6>
        <h6>🟫 HTTP requests via Promises, and Observables</h6> 
        <h6>⬜ Local data set up or via backend API service</h6>
        <h6>:star: Repos: ↩️ </h6>
@@ -184,9 +182,8 @@ I contribute to open-source projects and learning from the amazing people and co
  <h4>:star: API component Test: Jasmine, built-in utilities ⚡⚡</h4>
     <details>
      <summary>Click to expand</summary>
-       <h6>🟦 Jasmine BDD with Karma Test runner</h6>
+       <h6>🟦 Jasmine BDD, Template-Driven form</h6>
        <h6>🟢 Angular built-in utilites like TestBed, ComponentFixture, HTTP, Mocking Services</h6>
-       <h6>🟥 Template-Driven: Built‑in directive</h6>
        <h6>🟪 Model-driven/Reactive forms: RxJS(Observable), HTTP requests, Angular Operators</h6>
        <h6>:star: Repos: ↩️ </h6>
          <ul>
