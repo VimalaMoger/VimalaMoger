@@ -161,21 +161,15 @@ I contribute to open-source projects and learning from the amazing people and co
   </details>
   
   <br>          
- <h4>:star: Angular</h4>
- <h4>:star: Testing Frameworks: Jasmine, Karma, built-in utilities ⚡⚡</h4>
-    <details>
+ <h4>:star: Angular: TypeScript, CSS, HTML, RxJS</h4>
+  <details>
      <summary>Click to expand</summary>
-       <h6>🟦 Jasmine : BDD for JavaScript</h6>
-       <h6>🟩 Karma: Test runner in Browser</h6>
-       <h6>🟢 Angular built-in utilites like TestBed, ComponentFixture, HttpClientTestingModule, Mocking Services</h6>
+       <h6>🟩 Single Page application</h6>
+       <h6>⬛ Angular routing, data binding</h6>
+       <h6>🟫 HTTP requests via Promises, and Observables</h6> 
+       <h6>⬜ Local data set up or via backend API service</h6>
        <h6>:star: Repos: ↩️ </h6>
-         <ul>
-           <li>
-             <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJS</a>
-           </li>
-           <li>
-             <a href="https://github.com/VimalaMoger/unit_test_in_angular" target="_blank">unitTestingInAngular</a>
-           </li>
+         <ul>   
            <li>
              <a href="https://github.com/VimalaMoger/tourOfHeroes-Angular" target="_blank">tourOfHeroes-Angular</a>
            </li>
@@ -183,8 +177,25 @@ I contribute to open-source projects and learning from the amazing people and co
              <a href="https://github.com/VimalaMoger/tourOfHeroes_Angular_Http" target="_blank">tourOfHeroes-Angular_Http</a>
            </li>
            <li>
-            <a href="https://github.com/VimalaMoger/iTunes_search_app" target="_blank">iTunes_search_app</a>
-          </li>   
+             <a href="https://github.com/VimalaMoger/iTunes_search_app" target="_blank">iTunes_search_app</a>
+           </li> 
+         </ul>
+   </details>
+ <h4>:star: API component Test: Jasmine, built-in utilities ⚡⚡</h4>
+    <details>
+     <summary>Click to expand</summary>
+       <h6>🟦 Jasmine BDD with Karma Test runner</h6>
+       <h6>🟢 Angular built-in utilites like TestBed, ComponentFixture, HTTP, Mocking Services</h6>
+       <h6>🟥 Template-Driven: Built‑in directive</h6>
+       <h6>🟪 Model-driven/Reactive forms: RxJS(Observable), HTTP requests, Angular Operators</h6>
+       <h6>:star: Repos: ↩️ </h6>
+         <ul>
+           <li>
+             <a href="https://github.com/VimalaMoger/angular-forms-RxJS" target="_blank">angular-forms-RxJS</a>
+           </li>
+           <li>
+             <a href="https://github.com/VimalaMoger/unit_test_in_angular" target="_blank">unitTestingInAngular</a>
+           </li>  
          </ul>
     </details> 
 
