@@ -10,7 +10,7 @@
 
 👤 About me!
 
-I’m a curious learner with experience in QA and Client relations. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
+I’m a coder, tester and learner. I enjoy learning new technologies and exploring new ways to solve problems, working on side projects, and joining webinars to discover new tools and ideas.
 
 I contribute to open-source projects and learning from the amazing people and communities around them. Outside of tech, I like pushing myself to try new things and develop skills in different areas. I’m a fan of reading, getting creative, and making fun little projects in my free time.
 
@@ -244,6 +244,8 @@ I contribute to open-source projects and learning from the amazing people and co
          </li>
        </ul>
       <h6>:star: MongoDB, Express.js, Angular, Node.js</h6>
+      <h6>🟧 Node.js and Express server for API requests</h6>
+      <h6>🟪 Angular framework to call backend endpoints and handle async responses</h6>
       <h6>:star: Repo: </h6>
         <ul>
           <li>
