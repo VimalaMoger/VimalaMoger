@@ -279,7 +279,10 @@ I contribute to open-source projects and learning from the amazing people and co
   </details>
 
 <br>
+
+## Badges:
 <img width="150" height="150" alt="AI in Healthcare Improving Care and Efficiency" src="https://github.com/user-attachments/assets/4a45e493-ca9c-490e-9658-c28a54e8d860" />
+<img width="150" height="150" alt="Academy Accredition - Gen AI Fundamentals" src="https://github.com/user-attachments/assets/ae0bab1e-0989-45b4-996b-89bcf6099a1b" />
 
 <br><br>
 
