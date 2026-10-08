@@ -232,9 +232,11 @@ I contribute to open-source projects and learning from the amazing people and co
   <summary>Click to expand</summary>
      <h6>:star: Spring boot, React, Vite, Axios</h6>
      <ul>
+       <!--
        <li>
          <a href="https://lighthearted-stroopwafel-c66603.netlify.app" target="_blank">Visit my app</a>
        </li>
+       -->
      </ul>
      <h6>:star: Repos: </h6>
        <ul>
