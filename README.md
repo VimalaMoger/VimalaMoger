@@ -79,10 +79,10 @@ I contribute to open-source projects and learning from the amazing people and co
    <h4>:star: Testing Frameworks: </h4> 
     <details>
       <summary>Click to expand</summary>  
-       <h6>🟥 Unit, Integration, Acceptance, Databse Testing</h6>
+       <h6>🟥 Unit, Integration, Acceptance Testing</h6>
        <h6>🟫 JUnit, Mockito, MockMvc</h6>
        <h6>🟦 @DataJpaTest, @SpringBootTest annotations</h6> 
-       <h6>⬜ JUnit - TDD; Integration with Maven; Mockito with JUnit, H2</h6>
+       <h6>⬜ JUnit - TDD; Integration with Maven; Mockito with JUnit, H2 Database Test</h6>
        <h6>⬜ MockMvc: Endpoints Request, Response validation</h6>
        <h6>⬛ Selenium, REST Assured, Serenity(Selenium/Cucumber), TestNG, Cucumber BDD</h6>
        <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reports</h6>
