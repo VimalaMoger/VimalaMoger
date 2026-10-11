@@ -50,13 +50,7 @@ I contribute to open-source projects and learning from the amazing people and co
            <a href="https://github.com/VimalaMoger/bookmarking_application" target="_blank">bookmarkingApplication</a>
          </li>
          <li>
-           <a href="https://github.com/VimalaMoger/crud_app_under_test" target="_blank">crud_app</a>
-         </li> 
-         <li>
            <a href="https://github.com/VimalaMoger/thrillioWeb" target="_blank">thrillioWeb</a>
-        </li>
-         <li>
-           <a href="https://github.com/VimalaMoger/springboot_app_under_test" target="_blank">spring_boot_app_under-test</a>
         </li>
          <li>
            <a href="https://github.com/VimalaMoger/java_concept-impl-I" target="_blank">javaConcept-Implementation-I</a>
@@ -83,14 +77,15 @@ I contribute to open-source projects and learning from the amazing people and co
    </details>
   
    <h4>:star: Testing Frameworks: </h4> 
-   <h6>🟫 JUnit, Mockito, MockMvc</h6>
-   <h6>⬛ Selenium, REST Assured, Serenity(Selenium/Cucumber), TestNG, Cucumber BDD</h6>
-   <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reports</h6>
     <details>
-      <summary>Click to expand</summary>
-       <h6>🟥 Unit, Integration Testing</h6>
-       <h6>⬜ JUnit - TDD; Integration with Maven; CI/CD; Mockito with JUnit</h6>
+      <summary>Click to expand</summary>  
+       <h6>🟥 Unit, Integration, Acceptance, Databse Testing</h6>
+       <h6>🟫 JUnit, Mockito, MockMvc</h6>
+       <h6>🟦 @DataJpaTest, @SpringBootTest annotations</h6> 
+       <h6>⬜ JUnit - TDD; Integration with Maven; Mockito with JUnit, H2</h6>
        <h6>⬜ MockMvc: Endpoints Request, Response validation</h6>
+       <h6>⬛ Selenium, REST Assured, Serenity(Selenium/Cucumber), TestNG, Cucumber BDD</h6>
+       <h6>🟫 Annotations, test cases grouping, prioritizing, parallel execution, and reports</h6>
        <br>
        <h6>:star: UI Automation: </h6> 
          <h6>🟪 Integration of Selenium and TestNG: Running test code in Docker Container; Integration with CI/CD: GitHub Actions, Jenkins</h6>
@@ -99,9 +94,19 @@ I contribute to open-source projects and learning from the amazing people and co
          <h6>⬛ Serenity BDD (Selenium / Cucumber), Page Object Model, GitHub Actions, Serenity test report</h6>
        <br>
        <h6> ˚｡⋆୨୧˚✎ Repos: </h6>
-       <ul>  
-         <li><a href="https://github.com/VimalaMoger/e2e_testing_automation" target="_blank">e2eTesting_Automation</a></li>
-         <li><a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">serenity-ui-test</a></li>
+       <ul> 
+        <li>
+          <a href="https://github.com/VimalaMoger/crud_app_under_test" target="_blank">crud_app_under_test</a>
+        </li> 
+        <li>
+          <a href="https://github.com/VimalaMoger/springboot_app_under_test" target="_blank">spring_boot_app_under-test</a>
+        </li>
+        <li>
+          <a href="https://github.com/VimalaMoger/e2e_testing_automation" target="_blank">e2eTesting_Automation</a>
+        </li>
+        <li>
+          <a href="https://github.com/VimalaMoger/serenity-ui-test" target="_blank">serenity-ui-test</a>
+        </li>
        </ul>
        <br>
        <h6>:star: REST API Automation: </h6>
